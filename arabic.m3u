@@ -27,18 +27,10 @@ http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv/451.m3u8
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv/452.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AlSalam TV*" tvg-logo="https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/1654130_604382612981909_1372214940_n.jpg?_nc_cat=110&_nc_ht=scontent-ams3-1.xx&oh=097ac1b84bd2ba91c6be720e47305528&oe=5D4D5F95" group-title="رياضة وافلام منوعة",AlSalam TV*
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv/457.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bethlehem TV*" tvg-logo="https://1.bp.blogspot.com/-qKtzT41hSDk/VxjnQFunDxI/AAAAAAAAOCs/PdyP4wsuns4iRD_22qy_r2EEyYVyXzY1gCLcB/s1600/Bethlehem%2BTV.jpg" group-title="رياضة وافلام منوعة",Bethlehem TV*
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv/449.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Watar1*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_3x5BSG62Y3OsrU-k2GgZLf2ZyKZjBHXxzT_q0Hi2tia2WBPa" group-title="رياضة وافلام منوعة",Watar1*
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv/450.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AD-Sport-HD1" tvg-logo="http://mobikora.tv/app/img/ad-sports1.png" group-title="رياضة وافلام منوعة",AD-Sport-HD1
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv/3364.ts
 #EXTINF:-1 tvg-id="" tvg-name="AD-Sport-HD2" tvg-logo="http://mobikora.tv/app/img/ad-sports2.png" group-title="رياضة وافلام منوعة",AD-Sport-HD2
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv/3365.ts
-#EXTINF:-1 tvg-id="" tvg-name="AD-Sport-HD3" tvg-logo="http://mobikora.tv/app/img/ad-sports3.png" group-title="رياضة وافلام منوعة",AD-Sport-HD3
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv/3366.ts
-#EXTINF:-1 tvg-id="" tvg-name="AD-Sport-HD4" tvg-logo="http://mobikora.tv/app/img/ad-sports4.png" group-title="رياضة وافلام منوعة",AD-Sport-HD4
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv/3367.ts
 #EXTINF:-1 tvg-id="" tvg-name="Ksa Sport 1" tvg-logo="http://mobikora.tv/app/img/saudi_sport1.png" group-title="رياضة وافلام منوعة",Ksa Sport 1
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv/3390.ts
 #EXTINF:-1 tvg-id="" tvg-name="Ksa Sport 2" tvg-logo="http://mobikora.tv/app/img/saudi_sport2.png" group-title="رياضة وافلام منوعة",Ksa Sport 2
