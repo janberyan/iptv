@@ -43,6 +43,36 @@ http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5163.ts
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5164.ts
 #EXTINF:-1 tvg-id="" tvg-name="ON SPORT" tvg-logo="https://3.bp.blogspot.com/-UoB2RrneWlk/WrTw8haUv-I/AAAAAAAABTg/aUO011tKuww4kLrhPCNms9K6CM4ndUn4wCLcBGAs/s320/on%2Bsport.png" group-title="رياضة وافلام منوعة",ON SPORT
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5190.ts
+#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="" group-title="رياضة وافلام منوعة",MUTV
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5389
+#EXTINF:-1 tvg-id="" tvg-name="Chelsea TV" tvg-logo="" group-title="رياضة وافلام منوعة",Chelsea TV
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5390
+#EXTINF:-1 tvg-id="" tvg-name="NOVA Sport 2" tvg-logo="" group-title="رياضة وافلام منوعة",NOVA Sport 2
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5391
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: CMore" tvg-logo="" group-title="رياضة وافلام منوعة",SPORT: CMore
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5388
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO Select" tvg-logo="" group-title="رياضة وافلام منوعة",ZIGGO Select
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5393
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO Voetbal" tvg-logo="" group-title="رياضة وافلام منوعة",ZIGGO Voetbal
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5392
+#EXTINF:-1 tvg-id="" tvg-name="Tivi busport1" tvg-logo="" group-title="رياضة وافلام منوعة",Tivi busport1
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5396
+#EXTINF:-1 tvg-id="" tvg-name="Tivi busport2" tvg-logo="" group-title="رياضة وافلام منوعة",Tivi busport2
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5395
+#EXTINF:-1 tvg-id="" tvg-name="Tivi busport3" tvg-logo="" group-title="رياضة وافلام منوعة",Tivi busport3
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5394
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆beIN HD☆▄ ▂ ▁" tvg-logo="" group-title="BEIN SPORTS HD",▁ ▂ ▄☆beIN HD☆▄ ▂ ▁
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/472.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport News" tvg-logo="https://2.bp.blogspot.com/-1fmaOMHjqaM/WtFJLQxGAkI/AAAAAAAAaMs/CsCeRYEXdSE72LkaRiHyKyMgdOJmisr8gCLcBGAs/s1600/Sports_News_ar.png" group-title="BEIN SPORTS HD",Bein Sport News
@@ -132,97 +162,115 @@ http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/476.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR-MBC Bollywood" tvg-logo="http://mobikora.tv/app/img/mbc-bollywood.png" group-title="MBC",AR-MBC Bollywood
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/477.ts
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆OSN&Bein&Fox☆▄ ▂ ▁" tvg-logo="" group-title="",▁ ▂ ▄☆OSN&Bein&Fox☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3251.m3u8
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3251
 #EXTINF:-1 tvg-id="" tvg-name="OSN First HBO" tvg-logo="https://rethinkresearch.biz/wp-content/uploads/2017/07/HBO.png" group-title="OSN&Bein&Fox",OSN First HBO
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5247.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5247
 #EXTINF:-1 tvg-id="" tvg-name="OSN Musalsalat" tvg-logo="http://mobikora.tv/app/img/OSN-Musalsalat.png" group-title="OSN&Bein&Fox",OSN Musalsalat
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3362.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3362
 #EXTINF:-1 tvg-id="" tvg-name="OSN Al Youm" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/3780960_logo_osn_alyoum.png" group-title="OSN&Bein&Fox",OSN Al Youm
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3397.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3397
 #EXTINF:-1 tvg-id="" tvg-name="OSN Yahala Cinema" tvg-logo="http://mobikora.tv/app/img/OSN-YaHala-Cinema.png" group-title="OSN&Bein&Fox",OSN Yahala Cinema
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3395.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3395
 #EXTINF:-1 tvg-id="" tvg-name="OSN Ya Hala Shabab" tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2017/01/tv-net.co_10-2.jpg" group-title="OSN&Bein&Fox",OSN Ya Hala Shabab
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3396.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3396
 #EXTINF:-1 tvg-id="" tvg-name="Bein Drama" tvg-logo="http://mobikora.tv/app/img/BeinDrama.png" group-title="OSN&Bein&Fox",Bein Drama
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3417.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3417
 #EXTINF:-1 tvg-id="" tvg-name="CINMA 1" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1150_1.png" group-title="OSN&Bein&Fox",CINMA 1
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3400.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3400
 #EXTINF:-1 tvg-id="" tvg-name="OSN Movies HD" tvg-logo="http://mobikora.tv/app/img/OSN-Movies-HD.png" group-title="OSN&Bein&Fox",OSN Movies HD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3394.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3394
 #EXTINF:-1 tvg-id="" tvg-name="OSN Action" tvg-logo="http://mobikora.tv/app/img/OSN-Movies-Action.png" group-title="OSN&Bein&Fox",OSN Action
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3393.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3393
 #EXTINF:-1 tvg-id="" tvg-name="OSN Movies Festival" tvg-logo="https://tvmannen.es/iptv_channels/2258101_files/osnmoviesfestivalarb.png" group-title="OSN&Bein&Fox",OSN Movies Festival
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5246.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5246
 #EXTINF:-1 tvg-id="" tvg-name="OSN Box OFFICE 3 HD" tvg-logo="https://1.bp.blogspot.com/-qitaT2xqavA/W5BJB_DS8XI/AAAAAAAABaw/oKTI1yd5bCc6frGDH0JWAGbnTC5w5F78gCLcBGAs/s640/o3.jpg" group-title="OSN&Bein&Fox",OSN Box OFFICE 3 HD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5245.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5245
 #EXTINF:-1 tvg-id="" tvg-name="OSN Movies Comedy HD" tvg-logo="https://tvmannen.es/iptv_channels/2258101_files/osnmoviescomedyarb.png" group-title="OSN&Bein&Fox",OSN Movies Comedy HD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5244.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5244
 #EXTINF:-1 tvg-id="" tvg-name="FX-HD" tvg-logo="http://mobikora.tv/app/img/FXHD.png" group-title="OSN&Bein&Fox",FX-HD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3418.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3418
 #EXTINF:-1 tvg-id="" tvg-name="MY-FILM-BOX-HD" tvg-logo="https://pbs.twimg.com/profile_images/944102161163489281/2W-61_pu_400x400.jpg" group-title="OSN&Bein&Fox",MY-FILM-BOX-HD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3329.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3329
 #EXTINF:-1 tvg-id="" tvg-name="FOX-ACTION" tvg-logo="https://mobikora.tv/app/img/FOX-ACTION-MOVIES.png" group-title="OSN&Bein&Fox",FOX-ACTION
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3420.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3420
 #EXTINF:-1 tvg-id="" tvg-name="Fox-Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="OSN&Bein&Fox",Fox-Channel
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3419.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3419
 #EXTINF:-1 tvg-id="" tvg-name="FOX-FAMILY" tvg-logo="http://mobikora.tv/app/img/FOX-Family-Movies.png" group-title="OSN&Bein&Fox",FOX-FAMILY
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3421.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3421
 #EXTINF:-1 tvg-id="" tvg-name="FIGHT-BOX" tvg-logo="https://upload.wikimedia.org/wikipedia/de/9/92/Fightbox_Logo.png" group-title="OSN&Bein&Fox",FIGHT-BOX
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5202.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5202
 #EXTINF:-1 tvg-id="" tvg-name="Star Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="OSN&Bein&Fox",Star Movies
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3399.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3399
 #EXTINF:-1 tvg-id="" tvg-name="My-Cinema-HD" tvg-logo="http://gobx.com/wp-content/uploads/2017/08/129-My-Cinema-HD.png" group-title="OSN&Bein&Fox",My-Cinema-HD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3373.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3373
 #EXTINF:-1 tvg-id="" tvg-name="Bein Movies 1 HD" tvg-logo="http://mobikora.tv/app/img/bein-movies-1.png" group-title="OSN&Bein&Fox",Bein Movies 1 HD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3412.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3412
 #EXTINF:-1 tvg-id="" tvg-name="Bein Movies 2 HD" tvg-logo="http://mobikora.tv/app/img/bein-movies-2.png" group-title="OSN&Bein&Fox",Bein Movies 2 HD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3413.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3413
 #EXTINF:-1 tvg-id="" tvg-name="Bein Movies 3 HD" tvg-logo="http://mobikora.tv/app/img/bein-movies-3.png" group-title="OSN&Bein&Fox",Bein Movies 3 HD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3414.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3414
 #EXTINF:-1 tvg-id="" tvg-name="Bein Movies 4 HD" tvg-logo="http://mobikora.tv/app/img/bein-movies-4.png" group-title="OSN&Bein&Fox",Bein Movies 4 HD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3415.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3415
 #EXTINF:-1 tvg-id="" tvg-name="Bein Dream Works" tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2016/07/DW_Stacked_boy_moon_only-blue.jpg" group-title="OSN&Bein&Fox",Bein Dream Works
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3416.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3416
 #EXTINF:-1 tvg-id="" tvg-name="Bein Series1" tvg-logo="https://www.bein.net/ar/wp-content/uploads/sites/4/2017/11/SeriesHD1-300x169.png" group-title="OSN&Bein&Fox",Bein Series1
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5193.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5193
 #EXTINF:-1 tvg-id="" tvg-name="Bein Series2" tvg-logo="https://www.bein.net/ar/wp-content/uploads/sites/4/2017/11/SeriesHD2@2x-300x169.png" group-title="OSN&Bein&Fox",Bein Series2
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5194.ts
-#EXTINF:-1 tvg-id="" tvg-name="Biaban-Movies-HD" tvg-logo="https://2.bp.blogspot.com/-rycfCqF29BA/Wt9mIjvs-8I/AAAAAAAAAMA/9gR706A321sNW3mT1wOGqv3I4fnVev1yACLcBGAs/s1600/Biaban%2BMovies.png" group-title="OSN&Bein&Fox",Biaban-Movies-HD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3442.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5194
 #EXTINF:-1 tvg-id="" tvg-name="HBO-1" tvg-logo="https://www.directstartv.com/wp-content/uploads/2017/05/hbo-1.png" group-title="OSN&Bein&Fox",HBO-1
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3425.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3425
 #EXTINF:-1 tvg-id="" tvg-name="HBO-2" tvg-logo="https://www.directstartv.com/wp-content/uploads/2017/05/hbo-1.png" group-title="OSN&Bein&Fox",HBO-2
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3424.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3424
 #EXTINF:-1 tvg-id="" tvg-name="HBO-3" tvg-logo="https://www.directstartv.com/wp-content/uploads/2017/05/hbo-1.png" group-title="OSN&Bein&Fox",HBO-3
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3423.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3423
 #EXTINF:-1 tvg-id="" tvg-name="TLC-HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/840.png" group-title="OSN&Bein&Fox",TLC-HD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3422.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3422
 #EXTINF:-1 tvg-id="" tvg-name="Hollywood M1" tvg-logo="" group-title="OSN&Bein&Fox",Hollywood M1
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5354.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5354
 #EXTINF:-1 tvg-id="" tvg-name="Hollywood M2" tvg-logo="" group-title="OSN&Bein&Fox",Hollywood M2
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5355.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5355
 #EXTINF:-1 tvg-id="" tvg-name="Hollywood M3" tvg-logo="" group-title="OSN&Bein&Fox",Hollywood M3
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5357.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5358
 #EXTINF:-1 tvg-id="" tvg-name="Hollywood M4" tvg-logo="" group-title="OSN&Bein&Fox",Hollywood M4
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5358.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood M5" tvg-logo="" group-title="OSN&Bein&Fox",Hollywood M5
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5363.ts
-#EXTINF:-1 tvg-id="" tvg-name="AD_Nat_Geo" tvg-logo="https://4.bp.blogspot.com/-CJKAWBud2tA/WSHvJh_uFtI/AAAAAAAAJQ8/tyHKa2NWXogCShkROPWRjGmuVwQv72i1gCLcB/s1600/na.jpg" group-title="OSN&Bein&Fox",AD_Nat_Geo
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3315.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nat-Geo" tvg-logo="http://mobikora.tv/app/img/Nat-Geo-HD.png" group-title="OSN&Bein&Fox",Nat-Geo
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3444.ts
-#EXTINF:-1 tvg-id="" tvg-name="QUEST ARABIYA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_Quest_Arabiya_2015.png" group-title="OSN&Bein&Fox",QUEST ARABIYA
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3443.ts
-#EXTINF:-1 tvg-id="" tvg-name="Music Now" tvg-logo="https://alfatv.com/wp-content/uploads/2019/03/music_logo.png" group-title="OSN&Bein&Fox",Music Now
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3401.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5363
 #EXTINF:-1 tvg-id="" tvg-name="IFILM" tvg-logo="https://www.koolbadges.co.uk/images/thumbnails/ifilm-200x200.jpg" group-title="OSN&Bein&Fox",IFILM
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3410.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3410
+#EXTINF:-1 tvg-id="" tvg-name="MTV Europ" tvg-logo="" group-title="OSN&Bein&Fox",MTV Europ
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5398
+#EXTINF:-1 tvg-id="" tvg-name="AD_Nat_Geo" tvg-logo="https://4.bp.blogspot.com/-CJKAWBud2tA/WSHvJh_uFtI/AAAAAAAAJQ8/tyHKa2NWXogCShkROPWRjGmuVwQv72i1gCLcB/s1600/na.jpg" group-title="OSN&Bein&Fox",AD_Nat_Geo
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3315
+#EXTINF:-1 tvg-id="" tvg-name="Nat-Geo" tvg-logo="http://mobikora.tv/app/img/Nat-Geo-HD.png" group-title="OSN&Bein&Fox",Nat-Geo
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3444
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="OSN&Bein&Fox",Animal Planet
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5387
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="OSN&Bein&Fox",Discovery Channel
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5384
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Showca" tvg-logo="" group-title="OSN&Bein&Fox",Discovery Showca
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5383
+#EXTINF:-1 tvg-id="" tvg-name="Fishing And Hunt" tvg-logo="" group-title="OSN&Bein&Fox",Fishing And Hunt
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5386
+#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="" group-title="OSN&Bein&Fox",History
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5385
+#EXTINF:-1 tvg-id="" tvg-name="QUEST ARABIYA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_Quest_Arabiya_2015.png" group-title="OSN&Bein&Fox",QUEST ARABIYA
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3443
+#EXTINF:-1 tvg-id="" tvg-name="Aghani" tvg-logo="" group-title="OSN&Bein&Fox",Aghani
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5400
+#EXTINF:-1 tvg-id="" tvg-name="Alremas" tvg-logo="" group-title="OSN&Bein&Fox",Alremas
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5403
+#EXTINF:-1 tvg-id="" tvg-name="Arabica" tvg-logo="" group-title="OSN&Bein&Fox",Arabica
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5401
+#EXTINF:-1 tvg-id="" tvg-name="Mazzika" tvg-logo="" group-title="OSN&Bein&Fox",Mazzika
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5402
+#EXTINF:-1 tvg-id="" tvg-name="Music Now" tvg-logo="https://alfatv.com/wp-content/uploads/2019/03/music_logo.png" group-title="OSN&Bein&Fox",Music Now
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3401
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC ALWAYS" tvg-logo="" group-title="OSN&Bein&Fox",MUSIC ALWAYS
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5397
 #EXTINF:-1 tvg-id="" tvg-name="Bein Fatafeat" tvg-logo="http://www.e3lam.org/wp-content/uploads/2016/03/%D9%81%D8%AA%D8%A7%D9%81%D9%8A%D8%AA.jpg" group-title="OSN&Bein&Fox",Bein Fatafeat
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5192.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5192
 #EXTINF:-1 tvg-id="" tvg-name="Bein Gourmet" tvg-logo="https://cne-eg.com/uploads/logos/20183175521422.png" group-title="OSN&Bein&Fox",Bein Gourmet
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5191.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5191
 #EXTINF:-1 tvg-id="" tvg-name="Imagine_Movies" tvg-logo="http://content.osn.com/bob/745x419/IMA.jpg" group-title="OSN&Bein&Fox",Imagine_Movies
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5203.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5203
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆قنوات العربية☆▄ ▂ ▁" tvg-logo="" group-title="ARABIC",▁ ▂ ▄☆قنوات العربية☆▄ ▂ ▁
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3411.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Almajd Quran" tvg-logo="" group-title="ARABIC",Almajd Quran
