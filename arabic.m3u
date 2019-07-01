@@ -293,12 +293,10 @@ http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/120.m3u8
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/119.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Alarabiya Alhadath" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mClstU-uA-TBDWsc8zkB_mjBgUMvIh1WJwarg=s288-mo-c-c0xffffffff-rj-k-no" group-title="قنوات الاخبارية",Alarabiya Alhadath
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/118.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alaraby" tvg-logo="http://lh3.googleusercontent.com/3ZioMawJmMEc7ZdWoewRrpLgUJqwLz1kwHlFXd9ytRklzoRPBkmOpd9QhrdYxayPppQ=w300-rw" group-title="قنوات الاخبارية",Alaraby
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/111.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Aljazeera News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Al-jazeera-logo.jpg/909px-Al-jazeera-logo.jpg" group-title="قنوات الاخبارية",Aljazeera News
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/117.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ann" tvg-logo="http://3.bp.blogspot.com/-IrTXxSnzkHs/VU4AVYziR4I/AAAAAAAAPZk/tZO6AIYE8oA/s1600/ann.png" group-title="قنوات الاخبارية",Ann
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="" group-title="قنوات الاخبارية",France 24
+http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5407.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC ARABIC" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/BBC-Arabic1.jpg" group-title="قنوات الاخبارية",BBC ARABIC
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/115.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cnbc arabia" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/fd/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B3%D9%8A_%D8%A5%D9%86_%D8%A8%D9%8A_%D8%B3%D9%8A_%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9.jpg" group-title="قنوات الاخبارية",Cnbc arabia
@@ -309,6 +307,11 @@ http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/116.m3u8
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/110.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sky news arabia" tvg-logo="https://pbs.twimg.com/profile_images/904702296784863232/cJklnl4__400x400.jpg" group-title="قنوات الاخبارية",Sky news arabia
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alaraby" tvg-logo="http://lh3.googleusercontent.com/3ZioMawJmMEc7ZdWoewRrpLgUJqwLz1kwHlFXd9ytRklzoRPBkmOpd9QhrdYxayPppQ=w300-rw" group-title="قنوات الاخبارية",Alaraby
+http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ann" tvg-logo="http://3.bp.blogspot.com/-IrTXxSnzkHs/VU4AVYziR4I/AAAAAAAAPZk/tZO6AIYE8oA/s1600/ann.png" group-title="قنوات الاخبارية",Ann
+http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/112.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆قنوات الاطفال☆▄ ▂ ▁" tvg-logo="" group-title="قنوات الاطفال",▁ ▂ ▄☆قنوات الاطفال☆▄ ▂ ▁
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/109.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Baraem" tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/baraem.tv_.jpg" group-title="قنوات الاطفال",Baraem
@@ -409,6 +412,7 @@ http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/59.m3u8
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/70.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://pbs.twimg.com/profile_images/1025280141277241345/wTK39dns_400x400.jpg" group-title="LEBANON قنوات اللبنانية",OTV
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/60.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆القنوات المصرية☆▄ ▂ ▁" tvg-logo="" group-title="EGYPT القنوات المصرية",▁ ▂ ▄☆القنوات المصرية☆▄ ▂ ▁
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/141.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBC HD" tvg-logo="" group-title="EGYPT القنوات المصرية",CBC HD
@@ -419,38 +423,33 @@ http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/140.m3u8
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/139.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cbcsofra" tvg-logo="" group-title="EGYPT القنوات المصرية",Cbcsofra
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/138.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBCSOFRA HD" tvg-logo="" group-title="EGYPT القنوات المصرية",CBCSOFRA HD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AlNahar Drama" tvg-logo="" group-title="EGYPT القنوات المصرية",AlNahar Drama
+http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5406.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nahar One" tvg-logo="" group-title="EGYPT القنوات المصرية",Nahar One
+http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5404.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dmc" tvg-logo="" group-title="EGYPT القنوات المصرية",Dmc
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/137.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dmcdrama" tvg-logo="" group-title="EGYPT القنوات المصرية",Dmcdrama
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/136.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rotana aflam" tvg-logo="" group-title="EGYPT القنوات المصرية",Rotana aflam
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alhayat" tvg-logo="" group-title="EGYPT القنوات المصرية",Alhayat
+http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5405.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rotana classic" tvg-logo="" group-title="EGYPT القنوات المصرية",Rotana classic
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/127.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rotana clip" tvg-logo="" group-title="EGYPT القنوات المصرية",Rotana clip
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Music" tvg-logo="" group-title="EGYPT القنوات المصرية",Rotana Music
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/126.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rotana drama" tvg-logo="" group-title="EGYPT القنوات المصرية",Rotana drama
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/125.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA HD" tvg-logo="" group-title="EGYPT القنوات المصرية",ROTANA HD
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Clip" tvg-logo="" group-title="EGYPT القنوات المصرية",Rotana Clip
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/131.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rotana music" tvg-logo="" group-title="EGYPT القنوات المصرية",Rotana music
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Cinema EG" tvg-logo="" group-title="EGYPT القنوات المصرية",Rotana Cinema EG
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/130.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Khalejeh" tvg-logo="" group-title="EGYPT القنوات المصرية",Rotana Khalejeh
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Cinema KSA" tvg-logo="" group-title="EGYPT القنوات المصرية",Rotana Cinema KSA
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/128.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SADA ELBALAD HD" tvg-logo="" group-title="EGYPT القنوات المصرية",SADA ELBALAD HD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/133.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WANASAH HD" tvg-logo="" group-title="EGYPT القنوات المصرية",WANASAH HD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/132.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZEE AFLAM HD" tvg-logo="" group-title="EGYPT القنوات المصرية",ZEE AFLAM HD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/124.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee alwan" tvg-logo="" group-title="EGYPT القنوات المصرية",Zee alwan
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/121.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZEE ALWAN HD" tvg-logo="" group-title="EGYPT القنوات المصرية",ZEE ALWAN HD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/123.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zeeaflam" tvg-logo="" group-title="EGYPT القنوات المصرية",Zeeaflam
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/122.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆قنوات العراقية☆▄ ▂ ▁" tvg-logo="" group-title="IRAQ قنوات العراقية",▁ ▂ ▄☆قنوات العراقية☆▄ ▂ ▁
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/100.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Afaqtv yoytube" tvg-logo="" group-title="IRAQ قنوات العراقية",Afaqtv yoytube
