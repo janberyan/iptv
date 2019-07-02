@@ -10,17 +10,6 @@ https://www.vidscloud.tv/link/8Ry6hvF52HmrMc7/480/899a0f48775b4ea7779e8bb7676076
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3326.ts
 #EXTINF:-1 tvg-id="" tvg-name="اثناء المبارايات" tvg-logo="" group-title="رياضة وافلام منوعة",اثناء المبارايات
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5186.ts
-#EXTINF:-1 tvg-id="" tvg-name="AlfajertvHD1" tvg-logo="http://imgs1.e-droid.net/srv/imgs/seccs/4751776_ico.png" group-title="رياضة وافلام منوعة",AlfajertvHD1
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3357
-#EXTINF:-1 tvg-id="" tvg-name="AlfajertvHD2" tvg-logo="http://imgs1.e-droid.net/srv/imgs/seccs/4751777_ico.png" group-title="رياضة وافلام منوعة",AlfajertvHD2
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3381
-#EXTINF:-1 tvg-id="" tvg-name="AlfajertvHD3" tvg-logo="http://imgs1.e-droid.net/srv/imgs/seccs/4751872_ico.png" group-title="رياضة وافلام منوعة",AlfajertvHD3
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3358
-#EXTINF:-1 tvg-id="" tvg-name="AlfajertvHD4" tvg-logo="http://imgs1.e-droid.net/srv/imgs/seccs/4751876_ico.png" group-title="رياضة وافلام منوعة",AlfajertvHD4
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3359
-#EXTINF:-1 tvg-id="" tvg-name="AlfajertvHD5" tvg-logo="http://imgs1.e-droid.net/srv/imgs/seccs/4751881_ico.png" group-title="رياضة وافلام منوعة",AlfajertvHD5
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3360
-
 #EXTINF:-1 tvg-id="" tvg-name="Ajyal TV Mada*" tvg-logo="http://www.arn.ps/uploads/radioslogo/tv.jpg" group-title="رياضة وافلام منوعة",Ajyal TV Mada*
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/451.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Almahed*" tvg-logo="http://nativitytv.ps/wp-content/uploads/2014/07/logo2.png" group-title="رياضة وافلام منوعة",Almahed*
@@ -67,76 +56,109 @@ http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5394
 
 
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆beIN HD☆▄ ▂ ▁" tvg-logo="" group-title="BEIN SPORTS HD",▁ ▂ ▄☆beIN HD☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/472.m3u8
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/472
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport News" tvg-logo="https://2.bp.blogspot.com/-1fmaOMHjqaM/WtFJLQxGAkI/AAAAAAAAaMs/CsCeRYEXdSE72LkaRiHyKyMgdOJmisr8gCLcBGAs/s1600/Sports_News_ar.png" group-title="BEIN SPORTS HD",Bein Sport News
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5159.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5159
 #EXTINF:-1 tvg-id="" tvg-name="Bein Max 1" tvg-logo="" group-title="BEIN SPORTS HD",Bein Max 1
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5373.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 SD" tvg-logo="" group-title="BEIN SPORTS HD",Bein Max 1 SD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5380.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5373
 #EXTINF:-1 tvg-id="" tvg-name="Bein Max 2" tvg-logo="" group-title="BEIN SPORTS HD",Bein Max 2
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5374.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5374
 #EXTINF:-1 tvg-id="" tvg-name="Bein Max 3" tvg-logo="" group-title="BEIN SPORTS HD",Bein Max 3
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5375.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 3 SD" tvg-logo="" group-title="BEIN SPORTS HD",Bein Max 3 SD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5378.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5375
 #EXTINF:-1 tvg-id="" tvg-name="Bein Max 4" tvg-logo="" group-title="BEIN SPORTS HD",Bein Max 4
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5376.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5376
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 SD" tvg-logo="" group-title="BEIN SPORTS HD",Bein Max 1 SD
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5380
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 3 SD" tvg-logo="" group-title="BEIN SPORTS HD",Bein Max 3 SD
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5378
+#EXTINF:-1 tvg-id="" tvg-name="Bein 1" tvg-logo="https://4.bp.blogspot.com/-L5tcqonCJEI/WryV7yAv8GI/AAAAAAAAaBk/nPnsqNJX64oS72twFhug9UBoHO6AXtHygCLcBGAs/s1600/bein1.png" group-title="BEIN SPORTS HD",Bein 1
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3349
+#EXTINF:-1 tvg-id="" tvg-name="Bein 2" tvg-logo="https://2.bp.blogspot.com/-8vZtbyphJoY/WrzHH4IamzI/AAAAAAAAaB8/d1hxk3XNBHIIwXzQrxhpJN0eb4l5HhlnQCLcBGAs/s1600/2-HD.png" group-title="BEIN SPORTS HD",Bein 2
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3348
+#EXTINF:-1 tvg-id="" tvg-name="Bein 3" tvg-logo="https://2.bp.blogspot.com/-LK5uO6tts4k/WrzHH6XJ1VI/AAAAAAAAaB4/DzvG3CvEzv0CTWwtYqwXXRCcUWeVwfYtgCLcBGAs/s1600/3-HD.png" group-title="BEIN SPORTS HD",Bein 3
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3347
+#EXTINF:-1 tvg-id="" tvg-name="Bein 4" tvg-logo="https://4.bp.blogspot.com/-M6uswGEXJoY/WrzHH8p7QyI/AAAAAAAAaB0/vq1MtGEDIkg-FD1KoWX24V32-rzWXoGZACLcBGAs/s1600/4-HD.png" group-title="BEIN SPORTS HD",Bein 4
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3346
+#EXTINF:-1 tvg-id="" tvg-name="Bein 5" tvg-logo="https://3.bp.blogspot.com/-dNth9_Exlx4/WrzHIV-_7nI/AAAAAAAAaCA/gueOyDPUDocqLrkrvZ0aFiKGbj0jfNzzACLcBGAs/s1600/5-HD.png" group-title="BEIN SPORTS HD",Bein 5
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3345
 #EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-1 HD" tvg-logo="https://4.bp.blogspot.com/-L5tcqonCJEI/WryV7yAv8GI/AAAAAAAAaBk/nPnsqNJX64oS72twFhug9UBoHO6AXtHygCLcBGAs/s1600/bein1.png" group-title="BEIN SPORTS HD",AR:BEINSPORTS-1 HD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3221.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3221
 #EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-2 HD" tvg-logo="https://2.bp.blogspot.com/-8vZtbyphJoY/WrzHH4IamzI/AAAAAAAAaB8/d1hxk3XNBHIIwXzQrxhpJN0eb4l5HhlnQCLcBGAs/s1600/2-HD.png" group-title="BEIN SPORTS HD",AR:BEINSPORTS-2 HD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3220.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3220
 #EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-3 HD" tvg-logo="https://2.bp.blogspot.com/-LK5uO6tts4k/WrzHH6XJ1VI/AAAAAAAAaB4/DzvG3CvEzv0CTWwtYqwXXRCcUWeVwfYtgCLcBGAs/s1600/3-HD.png" group-title="BEIN SPORTS HD",AR:BEINSPORTS-3 HD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3219.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3219
 #EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-4 HD" tvg-logo="https://4.bp.blogspot.com/-M6uswGEXJoY/WrzHH8p7QyI/AAAAAAAAaB0/vq1MtGEDIkg-FD1KoWX24V32-rzWXoGZACLcBGAs/s1600/4-HD.png" group-title="BEIN SPORTS HD",AR:BEINSPORTS-4 HD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3218.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3218
 #EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-5 HD" tvg-logo="https://3.bp.blogspot.com/-dNth9_Exlx4/WrzHIV-_7nI/AAAAAAAAaCA/gueOyDPUDocqLrkrvZ0aFiKGbj0jfNzzACLcBGAs/s1600/5-HD.png" group-title="BEIN SPORTS HD",AR:BEINSPORTS-5 HD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3217.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3217
 #EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-6 HD" tvg-logo="https://4.bp.blogspot.com/-iks-c8q_Z58/WrzHI5xQP5I/AAAAAAAAaCE/HcshcefvUucl0dOMbJ7deYaC__m0P7ozgCLcBGAs/s1600/6-HD.png" group-title="BEIN SPORTS HD",AR:BEINSPORTS-6 HD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3216.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3216
 #EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-7 HD" tvg-logo="https://2.bp.blogspot.com/-h-tSLjQ6LsI/WtFC66Y527I/AAAAAAAAaMA/0PUmlKJCdTowLNOEdDn1hDLHmQkjPv3XwCLcBGAs/s1600/7-HD.png" group-title="BEIN SPORTS HD",AR:BEINSPORTS-7 HD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3215.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3215
 #EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-8 HD" tvg-logo="https://3.bp.blogspot.com/-OKDfpRO-RUU/WtFDmVlckoI/AAAAAAAAaMQ/Wsqyea5M3y4JoV1qz8wJpfJ0J1cS7GKJQCLcBGAs/s1600/8-HD.png" group-title="BEIN SPORTS HD",AR:BEINSPORTS-8 HD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3214.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3214
 #EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-9 HD" tvg-logo="" group-title="BEIN SPORTS HD",AR:BEINSPORTS-9 HD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5337.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5337
 #EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-10 HD" tvg-logo="" group-title="BEIN SPORTS HD",AR:BEINSPORTS-10 HD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5338.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5338
 #EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-11 HD" tvg-logo="" group-title="BEIN SPORTS HD",AR:BEINSPORTS-11 HD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5339.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5339
 #EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-12 HD" tvg-logo="" group-title="BEIN SPORTS HD",AR:BEINSPORTS-12 HD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5340.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5340
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT1 FR" tvg-logo="https://4.bp.blogspot.com/-OLDGiJizR4c/Wvevm1Pl4zI/AAAAAAAAajU/R6udmdnBFPwXUR6y-IJFG0xVfb_f20ZWQCPcBGAYYCw/s1600/1-FR.png" group-title="BEIN SPORTS HD",BEIN SPORT1 FR
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5167.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5167
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT2 FR" tvg-logo="https://4.bp.blogspot.com/-WfaNuLa6gQ0/Wvevm82j5KI/AAAAAAAAajc/_JSTnpUGGTs0niROGv40giijHro_ZyyyQCPcBGAYYCw/s1600/2-FR.png" group-title="BEIN SPORTS HD",BEIN SPORT2 FR
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5168.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5168
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT3 FR" tvg-logo="https://1.bp.blogspot.com/-7jYByF3Fk70/Wvevm3po2KI/AAAAAAAAajY/qJMUkQ8q6VcpSQjW-kIl8cox1BccAeZdgCPcBGAYYCw/s1600/3-FR.png" group-title="BEIN SPORTS HD",BEIN SPORT3 FR
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/5169.ts
-#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆Bein SD☆▄ ▂ ▁" tvg-logo="" group-title="",▁ ▂ ▄☆Bein SD☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/488.m3u8
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5169
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆Bein SD☆▄ ▂ ▁" tvg-logo="" group-title="BEIN SPORTS SD",▁ ▂ ▄☆Bein SD☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/488
 #EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-1 SD" tvg-logo="https://alaa.netlify.com/sports/img/hd1.png" group-title="BEIN SPORTS SD",AR:BEINSPORTS-1 SD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3237.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3237
 #EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-2 SD" tvg-logo="https://alaa.netlify.com/sports/img/hd2.png" group-title="BEIN SPORTS SD",AR:BEINSPORTS-2 SD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3236.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3236
 #EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-3 SD" tvg-logo="https://alaa.netlify.com/sports/img/hd3.png" group-title="BEIN SPORTS SD",AR:BEINSPORTS-3 SD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3235.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3235
 #EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-4 SD" tvg-logo="https://alaa.netlify.com/sports/img/hd4.png" group-title="BEIN SPORTS SD",AR:BEINSPORTS-4 SD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3234.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3234
 #EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-5 SD" tvg-logo="https://alaa.netlify.com/sports/img/hd5.png" group-title="BEIN SPORTS SD",AR:BEINSPORTS-5 SD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3233.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3233
 #EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-6 SD" tvg-logo="https://alaa.netlify.com/sports/img/hd6.png" group-title="BEIN SPORTS SD",AR:BEINSPORTS-6 SD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3232.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3232
 #EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-7 SD" tvg-logo="https://alaa.netlify.com/sports/img/hd7.png" group-title="BEIN SPORTS SD",AR:BEINSPORTS-7 SD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3231.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3231
 #EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-8 SD" tvg-logo="https://alaa.netlify.com/sports/img/hd8.png" group-title="BEIN SPORTS SD",AR:BEINSPORTS-8 SD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/3230.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3230
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆Alfajer TV☆▄ ▂ ▁" tvg-logo="" group-title="Alfajer TV",▁ ▂ ▄☆Alfajer TV☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/5408
+#EXTINF:-1 tvg-id="" tvg-name="AlfajertvHD1" tvg-logo="http://imgs1.e-droid.net/srv/imgs/seccs/4751776_ico.png" group-title="رياضة وافلام منوعة",AlfajertvHD1
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3357
+#EXTINF:-1 tvg-id="" tvg-name="AlfajertvHD2" tvg-logo="http://imgs1.e-droid.net/srv/imgs/seccs/4751777_ico.png" group-title="رياضة وافلام منوعة",AlfajertvHD2
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3381
+#EXTINF:-1 tvg-id="" tvg-name="AlfajertvHD3" tvg-logo="http://imgs1.e-droid.net/srv/imgs/seccs/4751872_ico.png" group-title="رياضة وافلام منوعة",AlfajertvHD3
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3358
+#EXTINF:-1 tvg-id="" tvg-name="AlfajertvHD4" tvg-logo="http://imgs1.e-droid.net/srv/imgs/seccs/4751876_ico.png" group-title="رياضة وافلام منوعة",AlfajertvHD4
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3359
+#EXTINF:-1 tvg-id="" tvg-name="AlfajertvHD5" tvg-logo="http://imgs1.e-droid.net/srv/imgs/seccs/4751881_ico.png" group-title="رياضة وافلام منوعة",AlfajertvHD5
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3360
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆BeoutQ Sports☆▄ ▂ ▁" tvg-logo="" group-title="BeoutQ Sports",▁ ▂ ▄☆BeoutQ Sports☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3261
+#EXTINF:-1 tvg-id="" tvg-name="beoutQ sports 1HD" tvg-logo="http://mobikora.tv/app/img/1q.png" group-title="BeoutQ Sports",beoutQ sports 1HD
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3256
+#EXTINF:-1 tvg-id="" tvg-name="beoutQ sports 2HD" tvg-logo="http://mobikora.tv/app/img/2q.png" group-title="BeoutQ Sports",beoutQ sports 2HD
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3257
+#EXTINF:-1 tvg-id="" tvg-name="beoutQ sports 3HD" tvg-logo="http://mobikora.tv/app/img/3q.png" group-title="BeoutQ Sports",beoutQ sports 3HD
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3258
+#EXTINF:-1 tvg-id="" tvg-name="beoutQ sports 4HD" tvg-logo="http://mobikora.tv/app/img/4q.png" group-title="BeoutQ Sports",beoutQ sports 4HD
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3259
+#EXTINF:-1 tvg-id="" tvg-name="beoutQ sports 5HD" tvg-logo="http://mobikora.tv/app/img/5q.png" group-title="BeoutQ Sports",beoutQ sports 5HD
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv785/3260
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆MBC☆▄ ▂ ▁" tvg-logo="" group-title="MBC",▁ ▂ ▄☆MBC☆▄ ▂ ▁
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv785/483.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR-MBC1" tvg-logo="http://mobikora.tv/app/img/mbc1.png" group-title="MBC",AR-MBC1
