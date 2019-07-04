@@ -53,9 +53,6 @@ http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5394
 
 
 
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆beIN HD☆▄ ▂ ▁" tvg-logo="" group-title="BEIN SPORTS HD",▁ ▂ ▄☆beIN HD☆▄ ▂ ▁
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/472
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport News" tvg-logo="https://2.bp.blogspot.com/-1fmaOMHjqaM/WtFJLQxGAkI/AAAAAAAAaMs/CsCeRYEXdSE72LkaRiHyKyMgdOJmisr8gCLcBGAs/s1600/Sports_News_ar.png" group-title="BEIN SPORTS HD",Bein Sport News
@@ -72,16 +69,6 @@ http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5376
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5380
 #EXTINF:-1 tvg-id="" tvg-name="Bein Max 3 SD" tvg-logo="" group-title="BEIN SPORTS HD",Bein Max 3 SD
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5378
-#EXTINF:-1 tvg-id="" tvg-name="Bein 1" tvg-logo="https://4.bp.blogspot.com/-L5tcqonCJEI/WryV7yAv8GI/AAAAAAAAaBk/nPnsqNJX64oS72twFhug9UBoHO6AXtHygCLcBGAs/s1600/bein1.png" group-title="BEIN SPORTS HD",Bein 1
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3349
-#EXTINF:-1 tvg-id="" tvg-name="Bein 2" tvg-logo="https://2.bp.blogspot.com/-8vZtbyphJoY/WrzHH4IamzI/AAAAAAAAaB8/d1hxk3XNBHIIwXzQrxhpJN0eb4l5HhlnQCLcBGAs/s1600/2-HD.png" group-title="BEIN SPORTS HD",Bein 2
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3348
-#EXTINF:-1 tvg-id="" tvg-name="Bein 3" tvg-logo="https://2.bp.blogspot.com/-LK5uO6tts4k/WrzHH6XJ1VI/AAAAAAAAaB4/DzvG3CvEzv0CTWwtYqwXXRCcUWeVwfYtgCLcBGAs/s1600/3-HD.png" group-title="BEIN SPORTS HD",Bein 3
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3347
-#EXTINF:-1 tvg-id="" tvg-name="Bein 4" tvg-logo="https://4.bp.blogspot.com/-M6uswGEXJoY/WrzHH8p7QyI/AAAAAAAAaB0/vq1MtGEDIkg-FD1KoWX24V32-rzWXoGZACLcBGAs/s1600/4-HD.png" group-title="BEIN SPORTS HD",Bein 4
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3346
-#EXTINF:-1 tvg-id="" tvg-name="Bein 5" tvg-logo="https://3.bp.blogspot.com/-dNth9_Exlx4/WrzHIV-_7nI/AAAAAAAAaCA/gueOyDPUDocqLrkrvZ0aFiKGbj0jfNzzACLcBGAs/s1600/5-HD.png" group-title="BEIN SPORTS HD",Bein 5
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3345
 #EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-1 HD" tvg-logo="https://4.bp.blogspot.com/-L5tcqonCJEI/WryV7yAv8GI/AAAAAAAAaBk/nPnsqNJX64oS72twFhug9UBoHO6AXtHygCLcBGAs/s1600/bein1.png" group-title="BEIN SPORTS HD",AR:BEINSPORTS-1 HD
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3221
 #EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-2 HD" tvg-logo="https://2.bp.blogspot.com/-8vZtbyphJoY/WrzHH4IamzI/AAAAAAAAaB8/d1hxk3XNBHIIwXzQrxhpJN0eb4l5HhlnQCLcBGAs/s1600/2-HD.png" group-title="BEIN SPORTS HD",AR:BEINSPORTS-2 HD
@@ -106,6 +93,16 @@ http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5338
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5339
 #EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-12 HD" tvg-logo="" group-title="BEIN SPORTS HD",AR:BEINSPORTS-12 HD
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5340
+#EXTINF:-1 tvg-id="" tvg-name="Bein 1" tvg-logo="https://4.bp.blogspot.com/-L5tcqonCJEI/WryV7yAv8GI/AAAAAAAAaBk/nPnsqNJX64oS72twFhug9UBoHO6AXtHygCLcBGAs/s1600/bein1.png" group-title="BEIN SPORTS HD",Bein 1
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3349
+#EXTINF:-1 tvg-id="" tvg-name="Bein 2" tvg-logo="https://2.bp.blogspot.com/-8vZtbyphJoY/WrzHH4IamzI/AAAAAAAAaB8/d1hxk3XNBHIIwXzQrxhpJN0eb4l5HhlnQCLcBGAs/s1600/2-HD.png" group-title="BEIN SPORTS HD",Bein 2
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3348
+#EXTINF:-1 tvg-id="" tvg-name="Bein 3" tvg-logo="https://2.bp.blogspot.com/-LK5uO6tts4k/WrzHH6XJ1VI/AAAAAAAAaB4/DzvG3CvEzv0CTWwtYqwXXRCcUWeVwfYtgCLcBGAs/s1600/3-HD.png" group-title="BEIN SPORTS HD",Bein 3
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3347
+#EXTINF:-1 tvg-id="" tvg-name="Bein 4" tvg-logo="https://4.bp.blogspot.com/-M6uswGEXJoY/WrzHH8p7QyI/AAAAAAAAaB0/vq1MtGEDIkg-FD1KoWX24V32-rzWXoGZACLcBGAs/s1600/4-HD.png" group-title="BEIN SPORTS HD",Bein 4
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3346
+#EXTINF:-1 tvg-id="" tvg-name="Bein 5" tvg-logo="https://3.bp.blogspot.com/-dNth9_Exlx4/WrzHIV-_7nI/AAAAAAAAaCA/gueOyDPUDocqLrkrvZ0aFiKGbj0jfNzzACLcBGAs/s1600/5-HD.png" group-title="BEIN SPORTS HD",Bein 5
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3345
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT1 FR" tvg-logo="https://4.bp.blogspot.com/-OLDGiJizR4c/Wvevm1Pl4zI/AAAAAAAAajU/R6udmdnBFPwXUR6y-IJFG0xVfb_f20ZWQCPcBGAYYCw/s1600/1-FR.png" group-title="BEIN SPORTS HD",BEIN SPORT1 FR
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5167
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT2 FR" tvg-logo="https://4.bp.blogspot.com/-WfaNuLa6gQ0/Wvevm82j5KI/AAAAAAAAajc/_JSTnpUGGTs0niROGv40giijHro_ZyyyQCPcBGAYYCw/s1600/2-FR.png" group-title="BEIN SPORTS HD",BEIN SPORT2 FR
@@ -130,6 +127,28 @@ http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3232
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3231
 #EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-8 SD" tvg-logo="https://alaa.netlify.com/sports/img/hd8.png" group-title="BEIN SPORTS SD",AR:BEINSPORTS-8 SD
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3230
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆Bein (240p)☆▄ ▂ ▁" tvg-logo="" group-title="BEIN SPORTS (240p)",▁ ▂ ▄☆Bein (240p)☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5409
+#EXTINF:-1 tvg-id="" tvg-name="Bein 1 (240p)" tvg-logo="" group-title="BEIN SPORTS (240p)",Bein 1 (240p)
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5410
+#EXTINF:-1 tvg-id="" tvg-name="Bein 2 (240p)" tvg-logo="" group-title="BEIN SPORTS (240p)",Bein 2 (240p)
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5411
+#EXTINF:-1 tvg-id="" tvg-name="Bein 3 (240p)" tvg-logo="" group-title="BEIN SPORTS (240p)",Bein 3 (240p)
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5412
+#EXTINF:-1 tvg-id="" tvg-name="Bein 4 (240p)" tvg-logo="" group-title="BEIN SPORTS (240p)",Bein 4 (240p)
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5413
+#EXTINF:-1 tvg-id="" tvg-name="Bein 5 (240p)" tvg-logo="" group-title="BEIN SPORTS (240p)",Bein 5 (240p)
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5414
+#EXTINF:-1 tvg-id="" tvg-name="Bein 6 (240p)" tvg-logo="" group-title="BEIN SPORTS (240p)",Bein 6 (240p)
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5415
+#EXTINF:-1 tvg-id="" tvg-name="Bein 7 (240p)" tvg-logo="" group-title="BEIN SPORTS (240p)",Bein 7 (240p)
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5416
+#EXTINF:-1 tvg-id="" tvg-name="Bein 8 (240p)" tvg-logo="" group-title="BEIN SPORTS (240p)",Bein 8 (240p)
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5417
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆Alfajer TV☆▄ ▂ ▁" tvg-logo="" group-title="Alfajer TV",▁ ▂ ▄☆Alfajer TV☆▄ ▂ ▁
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5408
 #EXTINF:-1 tvg-id="" tvg-name="AlfajertvHD1" tvg-logo="http://imgs1.e-droid.net/srv/imgs/seccs/4751776_ico.png" group-title="Alfajer TV",AlfajertvHD1
