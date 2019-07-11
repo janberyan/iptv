@@ -4,8 +4,10 @@ http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/3211.mp4
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆رياضة وافلام منوعة☆▄ ▂ ▁" tvg-logo="" group-title="رياضة وافلام منوعة",▁ ▂ ▄☆رياضة وافلام منوعة☆▄ ▂ ▁
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/BeryanTV0/448.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Star Sport 2 دورة نهرو" tvg-logo="" group-title="رياضة وافلام منوعة",Star Sport 2 دورة نهرو
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5422
 #EXTINF:-1 tvg-id="" tvg-name="Jan Beryan MoviesHD" tvg-logo="https://4.bp.blogspot.com/-6k2Y3vd_WqU/XJU-iLk5dQI/AAAAAAAAHXY/XFfU7ASmJv8iXTzZPTSFsTJiafrOJTS9wCLcBGAs/s1600/%25D8%25AC%25D8%25A7%25D9%2586.png" group-title="رياضة وافلام منوعة",Jan Beryan MoviesHD
-https://www.vidscloud.tv/link/8Ry6hvF52HmrMc7/480/899a0f48775b4ea7779e8bb7676076b6/?sid=f5d28a5131fe0665c9c1394e5396ef18
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3325
 #EXTINF:-1 tvg-id="" tvg-name="Jan Beryan SportsHD" tvg-logo="https://4.bp.blogspot.com/-6k2Y3vd_WqU/XJU-iLk5dQI/AAAAAAAAHXY/XFfU7ASmJv8iXTzZPTSFsTJiafrOJTS9wCLcBGAs/s1600/%25D8%25AC%25D8%25A7%25D9%2586.png" group-title="رياضة وافلام منوعة",Jan Beryan SportsHD
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/BeryanTV0/3326.ts
 #EXTINF:-1 tvg-id="" tvg-name="اثناء المبارايات" tvg-logo="" group-title="رياضة وافلام منوعة",اثناء المبارايات
@@ -808,7 +810,7 @@ http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/BeryanTV0/5236.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Payam-TV" tvg-logo="" group-title="KURD قنوات الكردية",Payam-TV
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/BeryanTV0/5232.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆Game of Thrones.S08☆▄ ▂ ▁" tvg-logo="" group-title="",▁ ▂ ▄☆Game of Thrones.S08☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/BeryanTV0/5281.m3u8
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5281
 #EXTINF:-1 tvg-id="" tvg-name="Game of Thrones.S08 E01" tvg-logo="" group-title="Game Of Thrones 8",Game of Thrones.S08 E01
 http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/5280.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Game of Thrones.S08 E02" tvg-logo="" group-title="Game Of Thrones 8",Game of Thrones.S08 E02
@@ -821,8 +823,24 @@ http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/5336.mp4
 http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/5351.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Game of Thrones.S08 E06" tvg-logo="" group-title="Game Of Thrones 8",Game of Thrones.S08 E06
 http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/5372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆Movies&Series☆▄ ▂ ▁" tvg-logo="" group-title="",▁ ▂ ▄☆Movies&Series☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/787
+#EXTINF:-1 tvg-id="" tvg-name="حرب مرموز" tvg-logo="" group-title="ARABIC-Movies",حرب مرموز
+http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/5419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="الخروج عن النص" tvg-logo="" group-title="ARABIC-Movies",الخروج عن النص
+http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/5420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="122" tvg-logo="" group-title="ARABIC-Movies",122
+http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/5423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eish.Hayatak" tvg-logo="" group-title="ARABIC-Movies",Eish.Hayatak
+http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/5424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Memory Card" tvg-logo="" group-title="ARABIC-Movies",Memory Card
+http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/5425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capharnaum 2019" tvg-logo="" group-title="ARABIC-Movies",Capharnaum 2019
+http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/5426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bekia 2018" tvg-logo="" group-title="ARABIC-Movies",Bekia 2018
+http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/5427.mp4
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆افلام مترجمة 2019☆▄ ▂ ▁" tvg-logo="" group-title="",▁ ▂ ▄☆افلام مترجمة 2019☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/BeryanTV0/3785.m3u8
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3785
 #EXTINF:-1 tvg-id="" tvg-name="AmericanHangman" tvg-logo="" group-title="افلام مترجمة 2019",AmericanHangman
 http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/4033.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IO" tvg-logo="" group-title="افلام مترجمة 2019",IO
@@ -840,7 +858,7 @@ http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/4038.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VelvetBuzzsaw" tvg-logo="" group-title="افلام مترجمة 2019",VelvetBuzzsaw
 http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/4039.mp4
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆افلام مترجمة 2018☆▄ ▂ ▁" tvg-logo="" group-title="",▁ ▂ ▄☆افلام مترجمة 2018☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/BeryanTV0/3473.m3u8
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3473
 #EXTINF:-1 tvg-id="" tvg-name="12Strong-AR" tvg-logo="" group-title="افلام مترجمة 2018",12Strong-AR
 http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/3795.mp4
 #EXTINF:-1 tvg-id="" tvg-name="14Cameras" tvg-logo="" group-title="افلام مترجمة 2018",14Cameras
@@ -1324,7 +1342,7 @@ http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/3845.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Zoe-AR" tvg-logo="" group-title="افلام مترجمة 2018",Zoe-AR
 http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/3948.mp4
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆افلام مترجمة 2017☆▄ ▂ ▁" tvg-logo="" group-title="",▁ ▂ ▄☆افلام مترجمة 2017☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/BeryanTV0/3786.m3u8
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3786
 #EXTINF:-1 tvg-id="" tvg-name="24HoursToLive AR" tvg-logo="" group-title="افلام مترجمة 2017",24HoursToLive AR
 http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/4175.mp4
 #EXTINF:-1 tvg-id="" tvg-name="47MetersDown AR" tvg-logo="" group-title="افلام مترجمة 2017",47MetersDown AR
@@ -1916,7 +1934,7 @@ http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/4166.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Zombies AR" tvg-logo="" group-title="افلام مترجمة 2017",Zombies AR
 http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/4167.mp4
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆افلام مترجمة 2016☆▄ ▂ ▁" tvg-logo="" group-title="",▁ ▂ ▄☆افلام مترجمة 2016☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/BeryanTV0/3787.m3u8
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3787
 #EXTINF:-1 tvg-id="" tvg-name="10CloverfieldLane AR" tvg-logo="" group-title="افلام مترجمة 2016",10CloverfieldLane AR
 http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/4487.mp4
 #EXTINF:-1 tvg-id="" tvg-name="13HoursTheSecretSoldiersOfBenghazi AR" tvg-logo="" group-title="افلام مترجمة 2016",13HoursTheSecretSoldiersOfBenghazi AR
@@ -2458,7 +2476,7 @@ http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/4570.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Zootopia AR" tvg-logo="" group-title="افلام مترجمة 2016",Zootopia AR
 http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/4485.mp4
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆افلام مترجمة 2015☆▄ ▂ ▁" tvg-logo="" group-title="",▁ ▂ ▄☆افلام مترجمة 2015☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/BeryanTV0/3788.m3u8
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3788
 #EXTINF:-1 tvg-id="" tvg-name="400Days" tvg-logo="" group-title="افلام مترجمة 2015",400Days
 http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/4606.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ABiggerSplash" tvg-logo="" group-title="افلام مترجمة 2015",ABiggerSplash
@@ -2864,7 +2882,7 @@ http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/4705.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Youth" tvg-logo="" group-title="افلام مترجمة 2015",Youth
 http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/4706.mp4
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆افلام مترجمة 2014☆▄ ▂ ▁" tvg-logo="" group-title="",▁ ▂ ▄☆افلام مترجمة 2014☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/BeryanTV0/3789.m3u8
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3789
 #EXTINF:-1 tvg-id="" tvg-name="22JumpStreet" tvg-logo="" group-title="افلام مترجمة 2014",22JumpStreet
 http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/4809.mp4
 #EXTINF:-1 tvg-id="" tvg-name="300RiseOfAnEmpire" tvg-logo="" group-title="افلام مترجمة 2014",300RiseOfAnEmpire
@@ -3222,7 +3240,7 @@ http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/4808.mp4
 #EXTINF:-1 tvg-id="" tvg-name="YoungOnes" tvg-logo="" group-title="افلام مترجمة 2014",YoungOnes
 http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/4958.mp4
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆افلام مترجمة 2013☆▄ ▂ ▁" tvg-logo="" group-title="",▁ ▂ ▄☆افلام مترجمة 2013☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/BeryanTV0/3790.m3u8
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3790
 #EXTINF:-1 tvg-id="" tvg-name="0" tvg-logo="" group-title="افلام مترجمة 2013",0
 http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/4991.mp4
 #EXTINF:-1 tvg-id="" tvg-name="12YearsaSlave" tvg-logo="" group-title="افلام مترجمة 2013",12YearsaSlave
@@ -3406,7 +3424,7 @@ http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/5076.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Zulu" tvg-logo="" group-title="افلام مترجمة 2013",Zulu
 http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/5074.mp4
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆افلام مترجمة اقدم☆▄ ▂ ▁" tvg-logo="" group-title="",▁ ▂ ▄☆افلام مترجمة اقدم☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/BeryanTV0/3791.m3u8
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3791
 #EXTINF:-1 tvg-id="" tvg-name="3-10ToYuma" tvg-logo="" group-title="افلام مترجمة اقدم",3-10ToYuma
 http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/5127.mp4
 #EXTINF:-1 tvg-id="" tvg-name="8Mile" tvg-logo="" group-title="افلام مترجمة اقدم",8Mile
@@ -3569,835 +3587,3 @@ http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/5135.mp4
 http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/5121.mp4
 #EXTINF:-1 tvg-id="" tvg-name="WreckItRalph" tvg-logo="" group-title="افلام مترجمة اقدم",WreckItRalph
 http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/5115.mp4
-#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆Movies&Series☆▄ ▂ ▁" tvg-logo="" group-title="",▁ ▂ ▄☆Movies&Series☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/BeryanTV0/787.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:10000-Saints" tvg-logo="" group-title="ARABIC-Movies",Ar:10000-Saints
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1113.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:101-Dalmatians-II" tvg-logo="" group-title="ARABIC-Movies",Ar:101-Dalmatians-II
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1225.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:365 Yom Saada" tvg-logo="" group-title="ARABIC-Movies",Ar:365 Yom Saada
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1358.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:7amati Bit7ebeni" tvg-logo="" group-title="ARABIC-Movies",Ar:7amati Bit7ebeni
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1226.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:A-Monster-In-Paris" tvg-logo="" group-title="ARABIC-Movies",Ar:A-Monster-In-Paris
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1223.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Abda Motaa" tvg-logo="" group-title="ARABIC-Movies",Ar:Abda Motaa
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1279.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Adocumentary Film About Dubai" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Adocumentary Film About Dubai
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1319.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Dubai Airport 1" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Dubai Airport 1
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1318.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Dubai Airport 10" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Dubai Airport 10
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1310.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Dubai Airport 2" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Dubai Airport 2
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1317.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Dubai Airport 4" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Dubai Airport 4
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1316.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Dubai Airport 5" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Dubai Airport 5
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1315.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Dubai Airport 6" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Dubai Airport 6
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1314.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Dubai Airport 7" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Dubai Airport 7
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1313.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Dubai Airport 8" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Dubai Airport 8
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1312.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Dubai Airport 9" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Dubai Airport 9
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1311.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Dubai Metro 1" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Dubai Metro 1
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1309.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Dubai Moving Burj" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Dubai Moving Burj
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1308.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Electronic Warfare" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Electronic Warfare
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1307.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Engineering Burj Al Arab Dubai" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Engineering Burj Al Arab Dubai
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1290.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Engineering Giant Gas Tanker" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Engineering Giant Gas Tanker
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1306.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Engineering Japanese Bullet Train" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Engineering Japanese Bullet Train
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1305.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Excavators And Diamond Mines" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Excavators And Diamond Mines
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1304.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Factories Chevrolet Camaro" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Factories Chevrolet Camaro
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1303.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Factories IKEA" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Factories IKEA
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1302.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Factories Lamborghini" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Factories Lamborghini
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1301.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Factories Porsche Panamera" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Factories Porsche Panamera
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1300.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Factories Toyota Camry" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Factories Toyota Camry
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1299.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Geo 1" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Geo 1
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1322.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Google World" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Google World
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1298.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Hiroshima The Following Day" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Hiroshima The Following Day
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1297.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat How To Make Money" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat How To Make Money
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1296.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Industry Bugatti Veyron Superstar" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Industry Bugatti Veyron Superstar
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1295.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Islands Of Dubai Industrial" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Islands Of Dubai Industrial
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1294.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Look For Google" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Look For Google
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1293.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Mega Breakdown Car Chargers" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Mega Breakdown Car Chargers
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1292.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Mustafa Kemal Ataturk" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Mustafa Kemal Ataturk
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1291.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Paris City" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Paris City
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1289.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat Structures Of Giant Trains Future" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat Structures Of Giant Trains Future
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1288.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat The Dubai Mall" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat The Dubai Mall
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1287.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat The Highest Towers In The World Burj Khalifa" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat The Highest Towers In The World Burj Khalifa
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1286.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat The Life Story Of Steve Jobs" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat The Life Story Of Steve Jobs
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1285.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat The Longest Bridge In The World" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat The Longest Bridge In The World
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1284.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD Nat The President S Plane USA" tvg-logo="" group-title="ARABIC-Movies",Ar:AD Nat The President S Plane USA
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1283.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:AD-Nat-geo-make-enerjy-by-machine" tvg-logo="" group-title="ARABIC-Movies",Ar:AD-Nat-geo-make-enerjy-by-machine
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1260.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Aezbet Adam" tvg-logo="" group-title="ARABIC-Movies",Ar:Aezbet Adam
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1345.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Ahasees" tvg-logo="" group-title="ARABIC-Movies",Ar:Ahasees
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1349.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Ahwak" tvg-logo="" group-title="ARABIC-Movies",Ar:Ahwak
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1099.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Air" tvg-logo="" group-title="ARABIC-Movies",Ar:Air
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1110.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Al Nabatshy" tvg-logo="" group-title="ARABIC-Movies",Ar:Al Nabatshy
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1222.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Al-anaisa-mammy" tvg-logo="" group-title="ARABIC-Movies",Ar:Al-anaisa-mammy
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1271.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Al-kharuj-min-Al-kahira-1" tvg-logo="" group-title="ARABIC-Movies",Ar:Al-kharuj-min-Al-kahira-1
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1224.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Al-markeb" tvg-logo="" group-title="ARABIC-Movies",Ar:Al-markeb
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1247.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Al-masafer" tvg-logo="" group-title="ARABIC-Movies",Ar:Al-masafer
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1246.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Al-mawatin-bars" tvg-logo="" group-title="ARABIC-Movies",Ar:Al-mawatin-bars
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1276.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Al-Qt" tvg-logo="" group-title="ARABIC-Movies",Ar:Al-Qt
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1248.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Al-Shata-ele-fat" tvg-logo="" group-title="ARABIC-Movies",Ar:Al-Shata-ele-fat
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1245.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Al-snafir" tvg-logo="" group-title="ARABIC-Movies",Ar:Al-snafir
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1275.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Al-Watar" tvg-logo="" group-title="ARABIC-Movies",Ar:Al-Watar
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1278.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Ala Gothaty" tvg-logo="" group-title="ARABIC-Movies",Ar:Ala Gothaty
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1378.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Alanisaa Mammy" tvg-logo="" group-title="ARABIC-Movies",Ar:Alanisaa Mammy
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1376.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Aljazera 2" tvg-logo="" group-title="ARABIC-Movies",Ar:Aljazera 2
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1221.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Aljazera-2" tvg-logo="" group-title="ARABIC-Movies",Ar:Aljazera-2
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1214.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Almaslaha" tvg-logo="" group-title="ARABIC-Movies",Ar:Almaslaha
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1375.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Aloha" tvg-logo="" group-title="ARABIC-Movies",Ar:Aloha
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1147.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Amn Dowlt" tvg-logo="" group-title="ARABIC-Movies",Ar:Amn Dowlt
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1360.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Ana Badea Ya Wadia" tvg-logo="" group-title="ARABIC-Movies",Ar:Ana Badea Ya Wadia
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1359.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Aris Min Geha Amneya" tvg-logo="" group-title="ARABIC-Movies",Ar:Aris Min Geha Amneya
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1338.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Asad Wo 4 Cats" tvg-logo="" group-title="ARABIC-Movies",Ar:Asad Wo 4 Cats
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1340.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Asef-3la-el-ez3aj" tvg-logo="" group-title="ARABIC-Movies",Ar:Asef-3la-el-ez3aj
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1192.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Ask Sana Bener" tvg-logo="" group-title="ARABIC-Movies",Ar:Ask Sana Bener
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1140.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Asmaa" tvg-logo="" group-title="ARABIC-Movies",Ar:Asmaa
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1357.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Asrar Aaeleya" tvg-logo="" group-title="ARABIC-Movies",Ar:Asrar Aaeleya
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1244.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Assal Eswed" tvg-logo="" group-title="ARABIC-Movies",Ar:Assal Eswed
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1355.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Assal-Eswed" tvg-logo="" group-title="ARABIC-Movies",Ar:Assal-Eswed
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1220.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Assassins Tale" tvg-logo="" group-title="ARABIC-Movies",Ar:Assassins Tale
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1112.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Assassins-Tale" tvg-logo="" group-title="ARABIC-Movies",Ar:Assassins-Tale
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1111.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Asterix-and-the-Vikings" tvg-logo="" group-title="ARABIC-Movies",Ar:Asterix-and-the-Vikings
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1187.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Asterix-the-Gaul" tvg-logo="" group-title="ARABIC-Movies",Ar:Asterix-the-Gaul
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1186.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Awesome Asian Bad Guys" tvg-logo="" group-title="ARABIC-Movies",Ar:Awesome Asian Bad Guys
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1134.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Ayal Harefa" tvg-logo="" group-title="ARABIC-Movies",Ar:Ayal Harefa
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1086.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Aziz S Dream" tvg-logo="" group-title="ARABIC-Movies",Ar:Aziz S Dream
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1381.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Bad Building" tvg-logo="" group-title="ARABIC-Movies",Ar:Bad Building
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1143.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Bambi-2" tvg-logo="" group-title="ARABIC-Movies",Ar:Bambi-2
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1219.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Banat Elaam" tvg-logo="" group-title="ARABIC-Movies",Ar:Banat Elaam
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1371.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Barbie In The Pink Shoes" tvg-logo="" group-title="ARABIC-Movies",Ar:Barbie In The Pink Shoes
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1133.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Barbie-and-the-Diamond-Castle" tvg-logo="" group-title="ARABIC-Movies",Ar:Barbie-and-the-Diamond-Castle
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1185.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Bebo We Basher" tvg-logo="" group-title="ARABIC-Movies",Ar:Bebo We Basher
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1362.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Bee-Movie" tvg-logo="" group-title="ARABIC-Movies",Ar:Bee-Movie
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1184.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Bentein Men Masr" tvg-logo="" group-title="ARABIC-Movies",Ar:Bentein Men Masr
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1352.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Big-Hero" tvg-logo="" group-title="ARABIC-Movies",Ar:Big-Hero
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1183.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Black February" tvg-logo="" group-title="ARABIC-Movies",Ar:Black February
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1380.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Bolt" tvg-logo="" group-title="ARABIC-Movies",Ar:Bolt
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1218.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Bon Swary" tvg-logo="" group-title="ARABIC-Movies",Ar:Bon Swary
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1350.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Boxtrolls" tvg-logo="" group-title="ARABIC-Movies",Ar:Boxtrolls
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1132.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Brave" tvg-logo="" group-title="ARABIC-Movies",Ar:Brave
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1182.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:C W C O M" tvg-logo="" group-title="ARABIC-Movies",Ar:C W C O M
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1131.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Cairo Time" tvg-logo="" group-title="ARABIC-Movies",Ar:Cairo Time
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1097.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Camera Trap" tvg-logo="" group-title="ARABIC-Movies",Ar:Camera Trap
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1109.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Carrier" tvg-logo="" group-title="ARABIC-Movies",Ar:Carrier
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1259.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Cars" tvg-logo="" group-title="ARABIC-Movies",Ar:Cars
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1217.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Cars-2" tvg-logo="" group-title="ARABIC-Movies",Ar:Cars-2
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1181.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Cash Flow" tvg-logo="" group-title="ARABIC-Movies",Ar:Cash Flow
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1216.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Catching Fatih" tvg-logo="" group-title="ARABIC-Movies",Ar:Catching Fatih
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1108.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:cumheriyet-Ambaba" tvg-logo="" group-title="ARABIC-Movies",Ar:cumheriyet-Ambaba
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1243.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Despicable-Me" tvg-logo="" group-title="ARABIC-Movies",Ar:Despicable-Me
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1180.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Dinosaur" tvg-logo="" group-title="ARABIC-Movies",Ar:Dinosaur
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1179.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Donia Maqloba" tvg-logo="" group-title="ARABIC-Movies",Ar:Donia Maqloba
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1087.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Donkey-Xote" tvg-logo="" group-title="ARABIC-Movies",Ar:Donkey-Xote
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1215.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Dragon Hunters" tvg-logo="" group-title="ARABIC-Movies",Ar:Dragon Hunters
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1130.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Earth Vs Everything" tvg-logo="" group-title="ARABIC-Movies",Ar:Earth Vs Everything
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1126.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:El Ott" tvg-logo="" group-title="ARABIC-Movies",Ar:El Ott
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1096.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:El Ragol El Ghamed Beslamto" tvg-logo="" group-title="ARABIC-Movies",Ar:El Ragol El Ghamed Beslamto
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1354.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:El-7arami-W-El-3abet" tvg-logo="" group-title="ARABIC-Movies",Ar:El-7arami-W-El-3abet
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1270.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:El-Gezira-Island" tvg-logo="" group-title="ARABIC-Movies",Ar:El-Gezira-Island
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1213.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Eldonia Ma2looba" tvg-logo="" group-title="ARABIC-Movies",Ar:Eldonia Ma2looba
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1212.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:ElGhorba" tvg-logo="" group-title="ARABIC-Movies",Ar:ElGhorba
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1211.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Elprincessa" tvg-logo="" group-title="ARABIC-Movies",Ar:Elprincessa
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1242.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Epic" tvg-logo="" group-title="ARABIC-Movies",Ar:Epic
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1129.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:EUC" tvg-logo="" group-title="ARABIC-Movies",Ar:EUC
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1368.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Ezaaet Hob" tvg-logo="" group-title="ARABIC-Movies",Ar:Ezaaet Hob
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1361.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:factory-girl" tvg-logo="" group-title="ARABIC-Movies",Ar:factory-girl
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1241.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Fantastic Four" tvg-logo="" group-title="ARABIC-Movies",Ar:Fantastic Four
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1149.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:fantastic-four" tvg-logo="" group-title="ARABIC-Movies",Ar:fantastic-four
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1148.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Fasel Wa Naood" tvg-logo="" group-title="ARABIC-Movies",Ar:Fasel Wa Naood
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1366.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Fast And Furious" tvg-logo="" group-title="ARABIC-Movies",Ar:Fast And Furious
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1332.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Feast" tvg-logo="" group-title="ARABIC-Movies",Ar:Feast
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1178.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Finding-nemo" tvg-logo="" group-title="ARABIC-Movies",Ar:Finding-nemo
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1128.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:First Response" tvg-logo="" group-title="ARABIC-Movies",Ar:First Response
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1107.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Flushed-Away" tvg-logo="" group-title="ARABIC-Movies",Ar:Flushed-Away
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1177.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Fokak Menny" tvg-logo="" group-title="ARABIC-Movies",Ar:Fokak Menny
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1356.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Ga3alatni-Mogreman" tvg-logo="" group-title="ARABIC-Movies",Ar:Ga3alatni-Mogreman
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1191.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Gahim Fel Hend" tvg-logo="" group-title="ARABIC-Movies",Ar:Gahim Fel Hend
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1095.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Game Over" tvg-logo="" group-title="ARABIC-Movies",Ar:Game Over
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1377.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Garfields-FunFest" tvg-logo="" group-title="ARABIC-Movies",Ar:Garfields-FunFest
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1176.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:get Money By Cars" tvg-logo="" group-title="ARABIC-Movies",Ar:get Money By Cars
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1258.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Ghesh ElZawgeya" tvg-logo="" group-title="ARABIC-Movies",Ar:Ghesh ElZawgeya
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1369.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:gwazet- Maryy" tvg-logo="" group-title="ARABIC-Movies",Ar:gwazet- Maryy
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1269.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Hafla-muntasaf-al-lil" tvg-logo="" group-title="ARABIC-Movies",Ar:Hafla-muntasaf-al-lil
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1240.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Halawet Roo7" tvg-logo="" group-title="ARABIC-Movies",Ar:Halawet Roo7
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1239.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Harm-street" tvg-logo="" group-title="ARABIC-Movies",Ar:Harm-street
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1238.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Hasal Kheer" tvg-logo="" group-title="ARABIC-Movies",Ar:Hasal Kheer
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1373.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Hassal Lena Elro3b" tvg-logo="" group-title="ARABIC-Movies",Ar:Hassal Lena Elro3b
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1210.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Hatoli Ragel" tvg-logo="" group-title="ARABIC-Movies",Ar:Hatoli Ragel
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1268.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Haz Said" tvg-logo="" group-title="ARABIC-Movies",Ar:Haz Said
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1281.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Haz West El Balad" tvg-logo="" group-title="ARABIC-Movies",Ar:Haz West El Balad
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1209.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:HD TWA 800 AD Geographic" tvg-logo="" group-title="ARABIC-Movies",Ar:HD TWA 800 AD Geographic
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1257.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Hepta: The Last Lecture" tvg-logo="" group-title="ARABIC-Movies",Ar:Hepta: The Last Lecture
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1092.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Home" tvg-logo="" group-title="ARABIC-Movies",Ar:Home
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1208.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:How To Train Your Dragon" tvg-logo="" group-title="ARABIC-Movies",Ar:How To Train Your Dragon
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1127.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Husband Factor" tvg-logo="" group-title="ARABIC-Movies",Ar:Husband Factor
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1138.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Husband-Factor" tvg-logo="" group-title="ARABIC-Movies",Ar:Husband-Factor
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1137.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Hwa-fe-kida" tvg-logo="" group-title="ARABIC-Movies",Ar:Hwa-fe-kida
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1237.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:iBrahim EL Abyad" tvg-logo="" group-title="ARABIC-Movies",Ar:iBrahim EL Abyad
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1347.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Ice-Age-1" tvg-logo="" group-title="ARABIC-Movies",Ar:Ice-Age-1
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1207.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Ice-Age-2" tvg-logo="" group-title="ARABIC-Movies",Ar:Ice-Age-2
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1206.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Ice-Age-3" tvg-logo="" group-title="ARABIC-Movies",Ar:Ice-Age-3
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1205.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Ice-Age-4" tvg-logo="" group-title="ARABIC-Movies",Ar:Ice-Age-4
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1333.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Ice-Age-5" tvg-logo="" group-title="ARABIC-Movies",Ar:Ice-Age-5
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1125.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:inside-the-game" tvg-logo="" group-title="ARABIC-Movies",Ar:inside-the-game
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1236.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:iphone 6 Plus" tvg-logo="" group-title="ARABIC-Movies",Ar:iphone 6 Plus
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1256.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Iron-Man-Hulk-Heroes-United" tvg-logo="" group-title="ARABIC-Movies",Ar:Iron-Man-Hulk-Heroes-United
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1175.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:japon-speed-train" tvg-logo="" group-title="ARABIC-Movies",Ar:japon-speed-train
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1255.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Jeraan Al-Sa3d" tvg-logo="" group-title="ARABIC-Movies",Ar:Jeraan Al-Sa3d
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1204.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:kabtin-masr" tvg-logo="" group-title="ARABIC-Movies",Ar:kabtin-masr
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1203.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Kan Refeeji" tvg-logo="" group-title="ARABIC-Movies",Ar:Kan Refeeji
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1235.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Karam King" tvg-logo="" group-title="ARABIC-Movies",Ar:Karam King
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1234.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Keda-Reda" tvg-logo="" group-title="ARABIC-Movies",Ar:Keda-Reda
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1190.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Khareg Ala Elqanon" tvg-logo="" group-title="ARABIC-Movies",Ar:Khareg Ala Elqanon
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1341.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Kharej Al Khedma" tvg-logo="" group-title="ARABIC-Movies",Ar:Kharej Al Khedma
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1088.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Klam-jarayad" tvg-logo="" group-title="ARABIC-Movies",Ar:Klam-jarayad
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1233.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:know Your Dream Home" tvg-logo="" group-title="ARABIC-Movies",Ar:know Your Dream Home
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1254.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:La Taragoa Wala Esteslam" tvg-logo="" group-title="ARABIC-Movies",Ar:La Taragoa Wala Esteslam
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1348.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:La-muakhaza" tvg-logo="" group-title="ARABIC-Movies",Ar:La-muakhaza
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1267.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Lamh Albaser" tvg-logo="" group-title="ARABIC-Movies",Ar:Lamh Albaser
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1282.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Lembi 8 Giga" tvg-logo="" group-title="ARABIC-Movies",Ar:Lembi 8 Giga
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1374.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:london Is Polis" tvg-logo="" group-title="ARABIC-Movies",Ar:london Is Polis
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1253.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Love Is Like You" tvg-logo="" group-title="ARABIC-Movies",Ar:Love Is Like You
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1139.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Mad Max Fury Road" tvg-logo="" group-title="ARABIC-Movies",Ar:Mad Max Fury Road
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1103.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Madagascar Europes Most Wanted" tvg-logo="" group-title="ARABIC-Movies",Ar:Madagascar Europes Most Wanted
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1334.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Mafish Fayda" tvg-logo="" group-title="ARABIC-Movies",Ar:Mafish Fayda
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1343.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Mamnoua Fi Lailat AlDokhlah" tvg-logo="" group-title="ARABIC-Movies",Ar:Mamnoua Fi Lailat AlDokhlah
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1336.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Maya-The-Bee-Movie" tvg-logo="" group-title="ARABIC-Movies",Ar:Maya-The-Bee-Movie
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1174.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Megamind" tvg-logo="" group-title="ARABIC-Movies",Ar:Megamind
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1173.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Men Dahr Ragel" tvg-logo="" group-title="ARABIC-Movies",Ar:Men Dahr Ragel
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1091.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Mob-Of-Women" tvg-logo="" group-title="ARABIC-Movies",Ar:Mob-Of-Women
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1202.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Mohma-fe-film-kadim" tvg-logo="" group-title="ARABIC-Movies",Ar:Mohma-fe-film-kadim
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1232.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Mohtram Ila Robaa" tvg-logo="" group-title="ARABIC-Movies",Ar:Mohtram Ila Robaa
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1351.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Monster-House" tvg-logo="" group-title="ARABIC-Movies",Ar:Monster-House
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1124.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Monsters" tvg-logo="" group-title="ARABIC-Movies",Ar:Monsters
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1172.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:MONSTERS-INC" tvg-logo="" group-title="ARABIC-Movies",Ar:MONSTERS-INC
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1122.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Monsters-University" tvg-logo="" group-title="ARABIC-Movies",Ar:Monsters-University
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1123.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:MR And Mrs Owais" tvg-logo="" group-title="ARABIC-Movies",Ar:MR And Mrs Owais
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1266.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Mr-Peabody-and-Sherman" tvg-logo="" group-title="ARABIC-Movies",Ar:Mr-Peabody-and-Sherman
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1274.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Nashet-Harket" tvg-logo="" group-title="ARABIC-Movies",Ar:Nashet-Harket
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1201.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Nazareyet-Amity" tvg-logo="" group-title="ARABIC-Movies",Ar:Nazareyet-Amity
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Niko The Way To The Stars" tvg-logo="" group-title="ARABIC-Movies",Ar:Niko The Way To The Stars
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1171.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Nine" tvg-logo="" group-title="ARABIC-Movies",Ar:Nine
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1170.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Now Add Honey" tvg-logo="" group-title="ARABIC-Movies",Ar:Now Add Honey
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1105.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Omar" tvg-logo="" group-title="ARABIC-Movies",Ar:Omar
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1199.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Omar Salma 3" tvg-logo="" group-title="ARABIC-Movies",Ar:Omar Salma 3
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1372.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:one-saadey" tvg-logo="" group-title="ARABIC-Movies",Ar:one-saadey
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1277.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Ot W Far" tvg-logo="" group-title="ARABIC-Movies",Ar:Ot W Far
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1090.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Papa Habbibi" tvg-logo="" group-title="ARABIC-Movies",Ar:Papa Habbibi
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1370.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Plane Tragedy" tvg-logo="" group-title="ARABIC-Movies",Ar:Plane Tragedy
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1252.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Planes" tvg-logo="" group-title="ARABIC-Movies",Ar:Planes
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1169.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Pleasure Island" tvg-logo="" group-title="ARABIC-Movies",Ar:Pleasure Island
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1106.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Prisoners" tvg-logo="" group-title="ARABIC-Movies",Ar:Prisoners
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1383.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Qot-W-Far" tvg-logo="" group-title="ARABIC-Movies",Ar:Qot-W-Far
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1265.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Ratatouille" tvg-logo="" group-title="ARABIC-Movies",Ar:Ratatouille
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1168.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Redeemer" tvg-logo="" group-title="ARABIC-Movies",Ar:Redeemer
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1145.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Rejata" tvg-logo="" group-title="ARABIC-Movies",Ar:Rejata
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1101.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Rio-2" tvg-logo="" group-title="ARABIC-Movies",Ar:Rio-2
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1121.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Road-To-Kabul" tvg-logo="" group-title="ARABIC-Movies",Ar:Road-To-Kabul
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1198.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Saa-we-nassaf" tvg-logo="" group-title="ARABIC-Movies",Ar:Saa-we-nassaf
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1231.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Saboba" tvg-logo="" group-title="ARABIC-Movies",Ar:Saboba
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1328.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Saeid- Kilaket" tvg-logo="" group-title="ARABIC-Movies",Ar:Saeid- Kilaket
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1264.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Safari" tvg-logo="" group-title="ARABIC-Movies",Ar:Safari
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1229.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Salim Abu Akhta" tvg-logo="" group-title="ARABIC-Movies",Ar:Salim Abu Akhta
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1263.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Sami Oxide Elcarbon" tvg-logo="" group-title="ARABIC-Movies",Ar:Sami Oxide Elcarbon
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1363.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Samir Abu Elnile 1" tvg-logo="" group-title="ARABIC-Movies",Ar:Samir Abu Elnile 1
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1321.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Samir Abu Elnile 2" tvg-logo="" group-title="ARABIC-Movies",Ar:Samir Abu Elnile 2
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1320.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:SammY-Adventure-2" tvg-logo="" group-title="ARABIC-Movies",Ar:SammY-Adventure-2
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1167.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Sarkhet Namla" tvg-logo="" group-title="ARABIC-Movies",Ar:Sarkhet Namla
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1367.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Sea Shadow" tvg-logo="" group-title="ARABIC-Movies",Ar:Sea Shadow
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1323.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Selena" tvg-logo="" group-title="ARABIC-Movies",Ar:Selena
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1346.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Shad Ajzaa" tvg-logo="" group-title="ARABIC-Movies",Ar:Shad Ajzaa
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1089.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Shark-and-Tale" tvg-logo="" group-title="ARABIC-Movies",Ar:Shark-and-Tale
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1273.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:sima-ali-baba" tvg-logo="" group-title="ARABIC-Movies",Ar:sima-ali-baba
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1197.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Sinbad" tvg-logo="" group-title="ARABIC-Movies",Ar:Sinbad
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1166.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Sleeping-Beauty" tvg-logo="" group-title="ARABIC-Movies",Ar:Sleeping-Beauty
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1196.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Snake In The Eagle Is Shadow" tvg-logo="" group-title="ARABIC-Movies",Ar:Snake In The Eagle Is Shadow
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1141.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Sofia-The-First-The-Floating-Palace" tvg-logo="" group-title="ARABIC-Movies",Ar:Sofia-The-First-The-Floating-Palace
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1165.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Sone3a Fe Masr" tvg-logo="" group-title="ARABIC-Movies",Ar:Sone3a Fe Masr
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1262.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Sons Of Rizk" tvg-logo="" group-title="ARABIC-Movies",Ar:Sons Of Rizk
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1093.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Space-Chimps" tvg-logo="" group-title="ARABIC-Movies",Ar:Space-Chimps
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1164.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Sponge Bob Bikini Bottom Adventures" tvg-logo="" group-title="ARABIC-Movies",Ar:Sponge Bob Bikini Bottom Adventures
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1120.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:steven Hoking And Future Since" tvg-logo="" group-title="ARABIC-Movies",Ar:steven Hoking And Future Since
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1251.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Surfs-up" tvg-logo="" group-title="ARABIC-Movies",Ar:Surfs-up
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1163.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Tad-The-Lost-Explorer" tvg-logo="" group-title="ARABIC-Movies",Ar:Tad-The-Lost-Explorer
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1162.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Taloreantia" tvg-logo="" group-title="ARABIC-Movies",Ar:Taloreantia
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1119.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Tangled Ever After" tvg-logo="" group-title="ARABIC-Movies",Ar:Tangled Ever After
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1335.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Tanker" tvg-logo="" group-title="ARABIC-Movies",Ar:Tanker
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1250.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Tannora-Maxi" tvg-logo="" group-title="ARABIC-Movies",Ar:Tannora-Maxi
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1194.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Tarzan" tvg-logo="" group-title="ARABIC-Movies",Ar:Tarzan
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1161.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Tatah" tvg-logo="" group-title="ARABIC-Movies",Ar:Tatah
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1325.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Tek Tek Boom" tvg-logo="" group-title="ARABIC-Movies",Ar:Tek Tek Boom
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1365.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Telk Al Ayam" tvg-logo="" group-title="ARABIC-Movies",Ar:Telk Al Ayam
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1327.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Terminator Genisys" tvg-logo="" group-title="ARABIC-Movies",Ar:Terminator Genisys
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1142.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Teta-Alf-Marra" tvg-logo="" group-title="ARABIC-Movies",Ar:Teta-Alf-Marra
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1193.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:The Avengers" tvg-logo="" group-title="ARABIC-Movies",Ar:The Avengers
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1100.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:The D-Train" tvg-logo="" group-title="ARABIC-Movies",Ar:The D-Train
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1104.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:The Fourth Generation" tvg-logo="" group-title="ARABIC-Movies",Ar:The Fourth Generation
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1098.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:The Intern" tvg-logo="" group-title="ARABIC-Movies",Ar:The Intern
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1280.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:The Lake On Clinton Road" tvg-logo="" group-title="ARABIC-Movies",Ar:The Lake On Clinton Road
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1136.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:The Martian" tvg-logo="" group-title="ARABIC-Movies",Ar:The Martian
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1135.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:The Pirates In An Adventure With Scientists" tvg-logo="" group-title="ARABIC-Movies",Ar:The Pirates In An Adventure With Scientists
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1117.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:The Revenant" tvg-logo="" group-title="ARABIC-Movies",Ar:The Revenant
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1146.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:The Transporter" tvg-logo="" group-title="ARABIC-Movies",Ar:The Transporter
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1331.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:The Transporter 2" tvg-logo="" group-title="ARABIC-Movies",Ar:The Transporter 2
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1330.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:The Transporter 3" tvg-logo="" group-title="ARABIC-Movies",Ar:The Transporter 3
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1329.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:The-Blue-Elephant" tvg-logo="" group-title="ARABIC-Movies",Ar:The-Blue-Elephant
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1230.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:The-bride-he-bought" tvg-logo="" group-title="ARABIC-Movies",Ar:The-bride-he-bought
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1150.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:The-croods" tvg-logo="" group-title="ARABIC-Movies",Ar:The-croods
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1118.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:The-Incredibles" tvg-logo="" group-title="ARABIC-Movies",Ar:The-Incredibles
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1160.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:The-Lorax" tvg-logo="" group-title="ARABIC-Movies",Ar:The-Lorax
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1159.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:The-Reef" tvg-logo="" group-title="ARABIC-Movies",Ar:The-Reef
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1116.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:The-Rescuers" tvg-logo="" group-title="ARABIC-Movies",Ar:The-Rescuers
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1195.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:The-Runner" tvg-logo="" group-title="ARABIC-Movies",Ar:The-Runner
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1144.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:The-Smurfs-1" tvg-logo="" group-title="ARABIC-Movies",Ar:The-Smurfs-1
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1158.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:The-Smurfs-2" tvg-logo="" group-title="ARABIC-Movies",Ar:The-Smurfs-2
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1157.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:The-Ugly-Ducklin-And-Me" tvg-logo="" group-title="ARABIC-Movies",Ar:The-Ugly-Ducklin-And-Me
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1156.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Those Who Fear Are Dead" tvg-logo="" group-title="ARABIC-Movies",Ar:Those Who Fear Are Dead
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1094.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Timon-and-Bomba" tvg-logo="" group-title="ARABIC-Movies",Ar:Timon-and-Bomba
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1272.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Timor We Shafika" tvg-logo="" group-title="ARABIC-Movies",Ar:Timor We Shafika
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1342.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Tinker-Bell-and-the-Legend-of-the-Never-Beast" tvg-logo="" group-title="ARABIC-Movies",Ar:Tinker-Bell-and-the-Legend-of-the-Never-Beast
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1155.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Tita Rahiba" tvg-logo="" group-title="ARABIC-Movies",Ar:Tita Rahiba
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1324.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:TMNT" tvg-logo="" group-title="ARABIC-Movies",Ar:TMNT
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1154.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:TMNT-1" tvg-logo="" group-title="ARABIC-Movies",Ar:TMNT-1
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1115.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Tom And Jimmy" tvg-logo="" group-title="ARABIC-Movies",Ar:Tom And Jimmy
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1326.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Treasure Planet" tvg-logo="" group-title="ARABIC-Movies",Ar:Treasure Planet
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1114.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Turbo" tvg-logo="" group-title="ARABIC-Movies",Ar:Turbo
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1153.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Up" tvg-logo="" group-title="ARABIC-Movies",Ar:Up
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1152.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Viet Full Discovery Capital Gate In Abu Dhabi National Geographic Documentary" tvg-logo="" group-title="ARABIC-Movies",Ar:Viet Full Discovery Capital Gate In Abu Dhabi National Geographic Documentary
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1249.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:WALL-E" tvg-logo="" group-title="ARABIC-Movies",Ar:WALL-E
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1151.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Welad ElAm" tvg-logo="" group-title="ARABIC-Movies",Ar:Welad ElAm
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1344.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Welad ElBalad" tvg-logo="" group-title="ARABIC-Movies",Ar:Welad ElBalad
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1353.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:welad Rizk" tvg-logo="" group-title="ARABIC-Movies",Ar:welad Rizk
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1102.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:West Beirut" tvg-logo="" group-title="ARABIC-Movies",Ar:West Beirut
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1228.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:When Time Becomes A Woman" tvg-logo="" group-title="ARABIC-Movies",Ar:When Time Becomes A Woman
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1379.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:World-War-III" tvg-logo="" group-title="ARABIC-Movies",Ar:World-War-III
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1227.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:X Large" tvg-logo="" group-title="ARABIC-Movies",Ar:X Large
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1364.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:ya-ana-ya-hwa" tvg-logo="" group-title="ARABIC-Movies",Ar:ya-ana-ya-hwa
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1261.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:ZaKi Chan" tvg-logo="" group-title="ARABIC-Movies",Ar:ZaKi Chan
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1339.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Zamzam Water" tvg-logo="" group-title="ARABIC-Movies",Ar:Zamzam Water
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1337.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Zarf-Tare-2" tvg-logo="" group-title="ARABIC-Movies",Ar:Zarf-Tare-2
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1189.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ar:Zeki-Chan" tvg-logo="" group-title="ARABIC-Movies",Ar:Zeki-Chan
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1188.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mabrouk" tvg-logo="" group-title="ARABIC-Movies",Mabrouk
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/1382.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:A Cube Of Sugar" tvg-logo="" group-title="KU-Movies",KU:A Cube Of Sugar
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2489.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:A7ol" tvg-logo="" group-title="KU-Movies",KU:A7ol
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2456.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:Anadolunun-Kayip-Sarkilari" tvg-logo="" group-title="KU-Movies",KU:Anadolunun-Kayip-Sarkilari
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2467.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:ARAF" tvg-logo="" group-title="KU-Movies",KU:ARAF
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2474.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:Bekas" tvg-logo="" group-title="KU-Movies",KU:Bekas
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2491.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:BEKO-Nizamettin-aric" tvg-logo="" group-title="KU-Movies",KU:BEKO-Nizamettin-aric
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2473.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:Berivan" tvg-logo="" group-title="KU-Movies",KU:Berivan
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2487.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:BUKA_BARANE" tvg-logo="" group-title="KU-Movies",KU:BUKA_BARANE
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2466.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:Cigerxwin" tvg-logo="" group-title="KU-Movies",KU:Cigerxwin
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2465.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:ciglik" tvg-logo="" group-title="KU-Movies",KU:ciglik
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2469.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:Dema-Hespen-Serxwes" tvg-logo="" group-title="KU-Movies",KU:Dema-Hespen-Serxwes
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2457.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:DUR_kazimoz" tvg-logo="" group-title="KU-Movies",KU:DUR_kazimoz
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2464.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:Elci-umit-Mem-u-Zin" tvg-logo="" group-title="KU-Movies",KU:Elci-umit-Mem-u-Zin
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2461.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:gelin-serhat-dumlu" tvg-logo="" group-title="KU-Movies",KU:gelin-serhat-dumlu
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2484.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:Ghobadi Bahman Turtles Can Fly" tvg-logo="" group-title="KU-Movies",KU:Ghobadi Bahman Turtles Can Fly
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2493.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:Ghobadi-Bahman-HESPEN-SERXWES" tvg-logo="" group-title="KU-Movies",KU:Ghobadi-Bahman-HESPEN-SERXWES
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2478.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:Ghobadi-Bahman-KUSI-JI-DIFIRIN" tvg-logo="" group-title="KU-Movies",KU:Ghobadi-Bahman-KUSI-JI-DIFIRIN
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:Ghobadi-Bahman-NIVE-HEYVE" tvg-logo="" group-title="KU-Movies",KU:Ghobadi-Bahman-NIVE-HEYVE
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2479.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:Ghobadi-Bahman-STRANE-WELATE-DAYIKAMIN" tvg-logo="" group-title="KU-Movies",KU:Ghobadi-Bahman-STRANE-WELATE-DAYIKAMIN
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2477.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:Halepce-Sonsuz-Umut" tvg-logo="" group-title="KU-Movies",KU:Halepce-Sonsuz-Umut
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2463.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:insancik-Cahit-Cecen" tvg-logo="" group-title="KU-Movies",KU:insancik-Cahit-Cecen
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2483.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:IZ" tvg-logo="" group-title="KU-Movies",KU:IZ
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2472.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:Jin" tvg-logo="" group-title="KU-Movies",KU:Jin
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2492.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:Khala Qapat" tvg-logo="" group-title="KU-Movies",KU:Khala Qapat
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2454.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:Kolana-pist-mala-me-Shilan-Saadi" tvg-logo="" group-title="KU-Movies",KU:Kolana-pist-mala-me-Shilan-Saadi
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2462.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:Komedi" tvg-logo="" group-title="KU-Movies",KU:Komedi
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2453.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:Lastik-Ahmet-Soner" tvg-logo="" group-title="KU-Movies",KU:Lastik-Ahmet-Soner
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2482.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:Mehmet-UZUN-anma" tvg-logo="" group-title="KU-Movies",KU:Mehmet-UZUN-anma
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2460.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:mirina-zimanekii" tvg-logo="" group-title="KU-Movies",KU:mirina-zimanekii
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2470.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:Niwemang" tvg-logo="" group-title="KU-Movies",KU:Niwemang
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2490.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:pervane" tvg-logo="" group-title="KU-Movies",KU:pervane
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2481.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:Peyare-Binevsa-Berivan" tvg-logo="" group-title="KU-Movies",KU:Peyare-Binevsa-Berivan
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2468.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:PRESS" tvg-logo="" group-title="KU-Movies",KU:PRESS
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2471.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:RENGE-MIRNA-Aydin-Orak" tvg-logo="" group-title="KU-Movies",KU:RENGE-MIRNA-Aydin-Orak
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2486.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:Romiw-ashq" tvg-logo="" group-title="KU-Movies",KU:Romiw-ashq
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2455.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:Sendrom AYDINORAK" tvg-logo="" group-title="KU-Movies",KU:Sendrom AYDINORAK
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2485.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:Tanha Tar Az Man" tvg-logo="" group-title="KU-Movies",KU:Tanha Tar Az Man
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2488.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:TELEFON-KULUBESI" tvg-logo="" group-title="KU-Movies",KU:TELEFON-KULUBESI
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2476.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:TRACES-berivan-bi-news" tvg-logo="" group-title="KU-Movies",KU:TRACES-berivan-bi-news
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2475.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:Ustagolu-Yesim-Gunese-Yolculuk" tvg-logo="" group-title="KU-Movies",KU:Ustagolu-Yesim-Gunese-Yolculuk
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2459.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU:Xaki-Palewanan-Omer-Saim-Xalifa" tvg-logo="" group-title="KU-Movies",KU:Xaki-Palewanan-Omer-Saim-Xalifa
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2458.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:10 Cloverfield Lane" tvg-logo="" group-title="FR-Movies",FR:10 Cloverfield Lane
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2327.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:13 Hours" tvg-logo="" group-title="FR-Movies",FR:13 Hours
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2328.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:9 Mois Ferme" tvg-logo="" group-title="FR-Movies",FR:9 Mois Ferme
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2368.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Aeon Flux 2" tvg-logo="" group-title="FR-Movies",FR:Aeon Flux 2
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2383.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Alleycats" tvg-logo="" group-title="FR-Movies",FR:Alleycats
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2351.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Arena" tvg-logo="" group-title="FR-Movies",FR:Arena
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2387.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Azumi" tvg-logo="" group-title="FR-Movies",FR:Azumi
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2386.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Bad Moms" tvg-logo="" group-title="FR-Movies",FR:Bad Moms
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2340.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Banlieue 13 II Ultimatum" tvg-logo="" group-title="FR-Movies",FR:Banlieue 13 II Ultimatum
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2382.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Batman The Dark Knight Returns" tvg-logo="" group-title="FR-Movies",FR:Batman The Dark Knight Returns
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2393.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Batman Unlimited: Mechs Vs  Mutants" tvg-logo="" group-title="FR-Movies",FR:Batman Unlimited: Mechs Vs  Mutants
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2350.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Camping 3" tvg-logo="" group-title="FR-Movies",FR:Camping 3
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2349.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Chromeskull Laid To Rest II" tvg-logo="" group-title="FR-Movies",FR:Chromeskull Laid To Rest II
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2356.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Crush In Jaipur" tvg-logo="" group-title="FR-Movies",FR:Crush In Jaipur
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2347.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Dark Inclusion" tvg-logo="" group-title="FR-Movies",FR:Dark Inclusion
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2345.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:De L Autre Cote Du" tvg-logo="" group-title="FR-Movies",FR:De L Autre Cote Du
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2365.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Death Race Inferno" tvg-logo="" group-title="FR-Movies",FR:Death Race Inferno
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2390.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Despicable Me 2" tvg-logo="" group-title="FR-Movies",FR:Despicable Me 2
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2371.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Dont Breathe" tvg-logo="" group-title="FR-Movies",FR:Dont Breathe
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2344.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Edge Of Winter" tvg-logo="" group-title="FR-Movies",FR:Edge Of Winter
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2348.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Escape Plan" tvg-logo="" group-title="FR-Movies",FR:Escape Plan
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2372.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Fetih" tvg-logo="" group-title="FR-Movies",FR:Fetih
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2385.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:FEU Crazy Horse Paris" tvg-logo="" group-title="FR-Movies",FR:FEU Crazy Horse Paris
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2363.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Fonzy" tvg-logo="" group-title="FR-Movies",FR:Fonzy
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2362.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Freezer" tvg-logo="" group-title="FR-Movies",FR:Freezer
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2361.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Gad ELMALEH La Vie Normale" tvg-logo="" group-title="FR-Movies",FR:Gad ELMALEH La Vie Normale
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2381.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Get The Gringo" tvg-logo="" group-title="FR-Movies",FR:Get The Gringo
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2380.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Goodbye World" tvg-logo="" group-title="FR-Movies",FR:Goodbye World
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2360.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Hell Driver" tvg-logo="" group-title="FR-Movies",FR:Hell Driver
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2397.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Insidious Chapter 2" tvg-logo="" group-title="FR-Movies",FR:Insidious Chapter 2
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2373.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Jack The Giant Slayer" tvg-logo="" group-title="FR-Movies",FR:Jack The Giant Slayer
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2392.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Jamais Le Premier Soir" tvg-logo="" group-title="FR-Movies",FR:Jamais Le Premier Soir
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2359.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Journey To The Christmas Star" tvg-logo="" group-title="FR-Movies",FR:Journey To The Christmas Star
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2384.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Land Of The Lost" tvg-logo="" group-title="FR-Movies",FR:Land Of The Lost
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2379.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Le Grand Mechant Loup" tvg-logo="" group-title="FR-Movies",FR:Le Grand Mechant Loup
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2367.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Le Jour Attendra" tvg-logo="" group-title="FR-Movies",FR:Le Jour Attendra
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2364.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Le Message" tvg-logo="" group-title="FR-Movies",FR:Le Message
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2378.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Legendary Tomb Of The Dragon" tvg-logo="" group-title="FR-Movies",FR:Legendary Tomb Of The Dragon
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2391.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Lights Out 2" tvg-logo="" group-title="FR-Movies",FR:Lights Out 2
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2342.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Madly Madagascar" tvg-logo="" group-title="FR-Movies",FR:Madly Madagascar
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2358.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Marauders" tvg-logo="" group-title="FR-Movies",FR:Marauders
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2341.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Mascots" tvg-logo="" group-title="FR-Movies",FR:Mascots
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2337.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Men In Black" tvg-logo="" group-title="FR-Movies",FR:Men In Black
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2394.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Michael Kohlhaas" tvg-logo="" group-title="FR-Movies",FR:Michael Kohlhaas
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2370.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Natural Born Pranksters" tvg-logo="" group-title="FR-Movies",FR:Natural Born Pranksters
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2338.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Neighbors 2: Sorority Rising" tvg-logo="" group-title="FR-Movies",FR:Neighbors 2: Sorority Rising
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2339.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Nerve" tvg-logo="" group-title="FR-Movies",FR:Nerve
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2336.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Pacific Rim" tvg-logo="" group-title="FR-Movies",FR:Pacific Rim
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2374.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Pain And Gain" tvg-logo="" group-title="FR-Movies",FR:Pain And Gain
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2389.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Phantasm: Ravager" tvg-logo="" group-title="FR-Movies",FR:Phantasm: Ravager
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2335.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Poseidon" tvg-logo="" group-title="FR-Movies",FR:Poseidon
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2377.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Race To Witch Mountain" tvg-logo="" group-title="FR-Movies",FR:Race To Witch Mountain
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2376.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Red Sky" tvg-logo="" group-title="FR-Movies",FR:Red Sky
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2355.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Ruroni Kenshin: Densetsu No Saigo-hen" tvg-logo="" group-title="FR-Movies",FR:Ruroni Kenshin: Densetsu No Saigo-hen
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2334.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Safe" tvg-logo="" group-title="FR-Movies",FR:Safe
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2398.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Shark Week" tvg-logo="" group-title="FR-Movies",FR:Shark Week
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2366.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Snitch" tvg-logo="" group-title="FR-Movies",FR:Snitch
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2399.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Stand Up Guys" tvg-logo="" group-title="FR-Movies",FR:Stand Up Guys
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2395.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Star Trek Beyond" tvg-logo="" group-title="FR-Movies",FR:Star Trek Beyond
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2324.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Suicide Squad" tvg-logo="" group-title="FR-Movies",FR:Suicide Squad
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2325.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Superman Unbound" tvg-logo="" group-title="FR-Movies",FR:Superman Unbound
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2357.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Taxi" tvg-logo="" group-title="FR-Movies",FR:Taxi
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2353.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Taxi 2" tvg-logo="" group-title="FR-Movies",FR:Taxi 2
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2352.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Team Spirit" tvg-logo="" group-title="FR-Movies",FR:Team Spirit
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2343.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:The Call" tvg-logo="" group-title="FR-Movies",FR:The Call
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2375.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:The Exorcism Of Molly Hartley" tvg-logo="" group-title="FR-Movies",FR:The Exorcism Of Molly Hartley
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2332.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:The Great Beauty" tvg-logo="" group-title="FR-Movies",FR:The Great Beauty
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2369.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:The Human Centipede III Final Sequence" tvg-logo="" group-title="FR-Movies",FR:The Human Centipede III Final Sequence
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2333.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:The Hunters" tvg-logo="" group-title="FR-Movies",FR:The Hunters
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2354.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:The Odd Life Of Timothy Green" tvg-logo="" group-title="FR-Movies",FR:The Odd Life Of Timothy Green
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2396.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:The Wolverine" tvg-logo="" group-title="FR-Movies",FR:The Wolverine
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2388.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:This Summer Feeling" tvg-logo="" group-title="FR-Movies",FR:This Summer Feeling
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2346.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:UN TRAITRE IDEAL" tvg-logo="" group-title="FR-Movies",FR:UN TRAITRE IDEAL
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2331.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Vingt Et Une Nuits Avec Pattie" tvg-logo="" group-title="FR-Movies",FR:Vingt Et Une Nuits Avec Pattie
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2326.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:Warcraft: The Beginning" tvg-logo="" group-title="FR-Movies",FR:Warcraft: The Beginning
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2329.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR:X-Men: Apocalypse" tvg-logo="" group-title="FR-Movies",FR:X-Men: Apocalypse
-http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/2330.m3u8
