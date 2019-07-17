@@ -3,9 +3,15 @@
 http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/3211.mp4
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆رياضة وافلام منوعة☆▄ ▂ ▁" tvg-logo="" group-title="رياضة وافلام منوعة",▁ ▂ ▄☆رياضة وافلام منوعة☆▄ ▂ ▁
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/BeryanTV0/448.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الكأس الدولية للابطال 1" tvg-logo="" group-title="رياضة وافلام منوعة",الكأس الدولية للابطال 1
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5428
+#EXTINF:-1 tvg-id="" tvg-name="الكأس الدولية للابطال 2" tvg-logo="" group-title="رياضة وافلام منوعة",الكأس الدولية للابطال 2
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5430
+#EXTINF:-1 tvg-id="" tvg-name="الكأس الدولية للابطال 3" tvg-logo="" group-title="رياضة وافلام منوعة",الكأس الدولية للابطال 3
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5431
+#EXTINF:-1 tvg-id="" tvg-name="الكأس الدولية للابطال SD" tvg-logo="" group-title="رياضة وافلام منوعة",الكأس الدولية للابطال SD
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5429
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Sport 2 دورة نهرو" tvg-logo="" group-title="رياضة وافلام منوعة",Star Sport 2 دورة نهرو
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5422
 #EXTINF:-1 tvg-id="" tvg-name="Jan Beryan MoviesHD" tvg-logo="https://4.bp.blogspot.com/-6k2Y3vd_WqU/XJU-iLk5dQI/AAAAAAAAHXY/XFfU7ASmJv8iXTzZPTSFsTJiafrOJTS9wCLcBGAs/s1600/%25D8%25AC%25D8%25A7%25D9%2586.png" group-title="رياضة وافلام منوعة",Jan Beryan MoviesHD
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3325
 #EXTINF:-1 tvg-id="" tvg-name="Jan Beryan SportsHD" tvg-logo="https://4.bp.blogspot.com/-6k2Y3vd_WqU/XJU-iLk5dQI/AAAAAAAAHXY/XFfU7ASmJv8iXTzZPTSFsTJiafrOJTS9wCLcBGAs/s1600/%25D8%25AC%25D8%25A7%25D9%2586.png" group-title="رياضة وافلام منوعة",Jan Beryan SportsHD
@@ -38,20 +44,7 @@ http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/BeryanTV0/5190.ts
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5389
 #EXTINF:-1 tvg-id="" tvg-name="Chelsea TV" tvg-logo="" group-title="رياضة وافلام منوعة",Chelsea TV
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5390
-#EXTINF:-1 tvg-id="" tvg-name="NOVA Sport 2" tvg-logo="" group-title="رياضة وافلام منوعة",NOVA Sport 2
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5391
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: CMore" tvg-logo="" group-title="رياضة وافلام منوعة",SPORT: CMore
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5388
-#EXTINF:-1 tvg-id="" tvg-name="ZIGGO Select" tvg-logo="" group-title="رياضة وافلام منوعة",ZIGGO Select
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5393
-#EXTINF:-1 tvg-id="" tvg-name="ZIGGO Voetbal" tvg-logo="" group-title="رياضة وافلام منوعة",ZIGGO Voetbal
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5392
-#EXTINF:-1 tvg-id="" tvg-name="Tivi busport1" tvg-logo="" group-title="رياضة وافلام منوعة",Tivi busport1
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5396
-#EXTINF:-1 tvg-id="" tvg-name="Tivi busport2" tvg-logo="" group-title="رياضة وافلام منوعة",Tivi busport2
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5395
-#EXTINF:-1 tvg-id="" tvg-name="Tivi busport3" tvg-logo="" group-title="رياضة وافلام منوعة",Tivi busport3
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5394
+
 
 
 
