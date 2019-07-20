@@ -804,6 +804,26 @@ http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/BeryanTV0/5237.m3u8
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/BeryanTV0/5236.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Payam-TV" tvg-logo="" group-title="KURD قنوات الكردية",Payam-TV
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/BeryanTV0/5232.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆La Casa.de Papel S03☆▄ ▂ ▁" tvg-logo="" group-title="La Casa.de Papel S03",▁ ▂ ▄☆La Casa.de Papel S03☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5450
+#EXTINF:-1 tvg-id="" tvg-name="La.Casa.de.Papel. Ep01" tvg-logo="" group-title="La Casa.de Papel S03",La.Casa.de.Papel. Ep01
+http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/5442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La.Casa.de.Papel. Ep02" tvg-logo="" group-title="La Casa.de Papel S03",La.Casa.de.Papel. Ep02
+http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/5443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La.Casa.de.Papel. Ep03" tvg-logo="" group-title="La Casa.de Papel S03",La.Casa.de.Papel. Ep03
+http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/5444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La.Casa.de.Papel. Ep04" tvg-logo="" group-title="La Casa.de Papel S03",La.Casa.de.Papel. Ep04
+http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/5445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La.Casa.de.Papel. Ep05" tvg-logo="" group-title="La Casa.de Papel S03",La.Casa.de.Papel. Ep05
+http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/5446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La.Casa.de.Papel. Ep06" tvg-logo="" group-title="La Casa.de Papel S03",La.Casa.de.Papel. Ep06
+http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/5447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La.Casa.de.Papel. Ep07" tvg-logo="" group-title="La Casa.de Papel S03",La.Casa.de.Papel. Ep07
+http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/5448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La.Casa.de.Papel. Ep08" tvg-logo="" group-title="La Casa.de Papel S03",La.Casa.de.Papel. Ep08
+http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/5449.mp4
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆Game of Thrones.S08☆▄ ▂ ▁" tvg-logo="" group-title="",▁ ▂ ▄☆Game of Thrones.S08☆▄ ▂ ▁
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5281
 #EXTINF:-1 tvg-id="" tvg-name="Game of Thrones.S08 E01" tvg-logo="" group-title="Game Of Thrones 8",Game of Thrones.S08 E01
@@ -834,6 +854,9 @@ http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/5425.mp4
 http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/5426.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bekia 2018" tvg-logo="" group-title="ARABIC-Movies",Bekia 2018
 http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/5427.mp4
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆افلام مترجمة 2019☆▄ ▂ ▁" tvg-logo="" group-title="",▁ ▂ ▄☆افلام مترجمة 2019☆▄ ▂ ▁
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3785
 #EXTINF:-1 tvg-id="" tvg-name="AmericanHangman" tvg-logo="" group-title="افلام مترجمة 2019",AmericanHangman
