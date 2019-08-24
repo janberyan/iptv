@@ -3,16 +3,7 @@
 http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/BeryanTV0/3211.mp4
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆رياضة وافلام منوعة☆▄ ▂ ▁" tvg-logo="" group-title="رياضة وافلام منوعة",▁ ▂ ▄☆رياضة وافلام منوعة☆▄ ▂ ▁
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/BeryanTV0/448.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="الكأس الدولية للابطال 1" tvg-logo="" group-title="رياضة وافلام منوعة",الكأس الدولية للابطال 1
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5432
-#EXTINF:-1 tvg-id="" tvg-name="الكأس الدولية للابطال 2" tvg-logo="" group-title="رياضة وافلام منوعة",الكأس الدولية للابطال 2
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5428
-#EXTINF:-1 tvg-id="" tvg-name="الكأس الدولية للابطال 3" tvg-logo="" group-title="رياضة وافلام منوعة",الكأس الدولية للابطال 3
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5430
-#EXTINF:-1 tvg-id="" tvg-name="الكأس الدولية للابطال 4" tvg-logo="" group-title="رياضة وافلام منوعة",الكأس الدولية للابطال 4
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5431
-#EXTINF:-1 tvg-id="" tvg-name="الكأس الدولية للابطال SD" tvg-logo="" group-title="رياضة وافلام منوعة",الكأس الدولية للابطال SD
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5429
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Jan Beryan MoviesHD" tvg-logo="https://4.bp.blogspot.com/-6k2Y3vd_WqU/XJU-iLk5dQI/AAAAAAAAHXY/XFfU7ASmJv8iXTzZPTSFsTJiafrOJTS9wCLcBGAs/s1600/%25D8%25AC%25D8%25A7%25D9%2586.png" group-title="رياضة وافلام منوعة",Jan Beryan MoviesHD
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3325
@@ -46,26 +37,15 @@ http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/BeryanTV0/5190.ts
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5389
 #EXTINF:-1 tvg-id="" tvg-name="Chelsea TV" tvg-logo="" group-title="رياضة وافلام منوعة",Chelsea TV
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5390
-
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 Bar HD" tvg-logo="" group-title="رياضة وافلام منوعة",DAZN 1 Bar HD
+http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/BeryanTV0/5457.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 Bar HD" tvg-logo="" group-title="رياضة وافلام منوعة",DAZN 2 Bar HD
+http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/BeryanTV0/5458.m3u8
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆beIN HD☆▄ ▂ ▁" tvg-logo="" group-title="BEIN SPORTS HD",▁ ▂ ▄☆beIN HD☆▄ ▂ ▁
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/472
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport News" tvg-logo="https://2.bp.blogspot.com/-1fmaOMHjqaM/WtFJLQxGAkI/AAAAAAAAaMs/CsCeRYEXdSE72LkaRiHyKyMgdOJmisr8gCLcBGAs/s1600/Sports_News_ar.png" group-title="BEIN SPORTS HD",Bein Sport News
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5159
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1" tvg-logo="" group-title="BEIN SPORTS HD",Bein Max 1
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5373
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2" tvg-logo="" group-title="BEIN SPORTS HD",Bein Max 2
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5374
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 3" tvg-logo="" group-title="BEIN SPORTS HD",Bein Max 3
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5375
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 4" tvg-logo="" group-title="BEIN SPORTS HD",Bein Max 4
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5376
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 SD" tvg-logo="" group-title="BEIN SPORTS HD",Bein Max 1 SD
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5380
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 3 SD" tvg-logo="" group-title="BEIN SPORTS HD",Bein Max 3 SD
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/5378
 #EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-1 HD" tvg-logo="https://4.bp.blogspot.com/-L5tcqonCJEI/WryV7yAv8GI/AAAAAAAAaBk/nPnsqNJX64oS72twFhug9UBoHO6AXtHygCLcBGAs/s1600/bein1.png" group-title="BEIN SPORTS HD",AR:BEINSPORTS-1 HD
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3221
 #EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-2 HD" tvg-logo="https://2.bp.blogspot.com/-8vZtbyphJoY/WrzHH4IamzI/AAAAAAAAaB8/d1hxk3XNBHIIwXzQrxhpJN0eb4l5HhlnQCLcBGAs/s1600/2-HD.png" group-title="BEIN SPORTS HD",AR:BEINSPORTS-2 HD
@@ -158,18 +138,7 @@ http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3358
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3359
 #EXTINF:-1 tvg-id="" tvg-name="AlfajertvHD5" tvg-logo="http://imgs1.e-droid.net/srv/imgs/seccs/4751881_ico.png" group-title="Alfajer TV",AlfajertvHD5
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3360
-#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆BeoutQ Sports☆▄ ▂ ▁" tvg-logo="" group-title="BeoutQ Sports",▁ ▂ ▄☆BeoutQ Sports☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3261
-#EXTINF:-1 tvg-id="" tvg-name="beoutQ sports 1HD" tvg-logo="http://mobikora.tv/app/img/1q.png" group-title="BeoutQ Sports",beoutQ sports 1HD
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3256
-#EXTINF:-1 tvg-id="" tvg-name="beoutQ sports 2HD" tvg-logo="http://mobikora.tv/app/img/2q.png" group-title="BeoutQ Sports",beoutQ sports 2HD
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3257
-#EXTINF:-1 tvg-id="" tvg-name="beoutQ sports 3HD" tvg-logo="http://mobikora.tv/app/img/3q.png" group-title="BeoutQ Sports",beoutQ sports 3HD
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3258
-#EXTINF:-1 tvg-id="" tvg-name="beoutQ sports 4HD" tvg-logo="http://mobikora.tv/app/img/4q.png" group-title="BeoutQ Sports",beoutQ sports 4HD
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3259
-#EXTINF:-1 tvg-id="" tvg-name="beoutQ sports 5HD" tvg-logo="http://mobikora.tv/app/img/5q.png" group-title="BeoutQ Sports",beoutQ sports 5HD
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV0/3260
+
 
 
 
