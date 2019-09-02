@@ -91,6 +91,14 @@ http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5338
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5339
 #EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-12 HD" tvg-logo="" group-title="BEIN SPORTS HD",AR:BEINSPORTS-12 HD
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5340
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 1" tvg-logo="" group-title="BEIN SPORTS HD",TR:BEINSPORTS 1
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5478
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 2" tvg-logo="" group-title="BEIN SPORTS HD",TR:BEINSPORTS 2
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5476
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 3" tvg-logo="" group-title="BEIN SPORTS HD",TR:BEINSPORTS 3
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5477
+
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT1 FR" tvg-logo="https://4.bp.blogspot.com/-OLDGiJizR4c/Wvevm1Pl4zI/AAAAAAAAajU/R6udmdnBFPwXUR6y-IJFG0xVfb_f20ZWQCPcBGAYYCw/s1600/1-FR.png" group-title="BEIN SPORTS HD",BEIN SPORT1 FR
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5167
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT2 FR" tvg-logo="https://4.bp.blogspot.com/-WfaNuLa6gQ0/Wvevm82j5KI/AAAAAAAAajc/_JSTnpUGGTs0niROGv40giijHro_ZyyyQCPcBGAYYCw/s1600/2-FR.png" group-title="BEIN SPORTS HD",BEIN SPORT2 FR
