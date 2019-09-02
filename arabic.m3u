@@ -177,32 +177,31 @@ http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv88910/473.ts
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv88910/476.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR-MBC Bollywood" tvg-logo="http://mobikora.tv/app/img/mbc-bollywood.png" group-title="MBC",AR-MBC Bollywood
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv88910/477.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆OSN&Bein&Fox☆▄ ▂ ▁" tvg-logo="" group-title="",▁ ▂ ▄☆OSN&Bein&Fox☆▄ ▂ ▁
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/3251
-#EXTINF:-1 tvg-id="" tvg-name="OSN First HBO" tvg-logo="https://rethinkresearch.biz/wp-content/uploads/2017/07/HBO.png" group-title="OSN&Bein&Fox",OSN First HBO
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5247
-#EXTINF:-1 tvg-id="" tvg-name="OSN Musalsalat" tvg-logo="http://mobikora.tv/app/img/OSN-Musalsalat.png" group-title="OSN&Bein&Fox",OSN Musalsalat
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/3362
-#EXTINF:-1 tvg-id="" tvg-name="OSN Al Youm" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/3780960_logo_osn_alyoum.png" group-title="OSN&Bein&Fox",OSN Al Youm
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/3397
-#EXTINF:-1 tvg-id="" tvg-name="OSN Yahala Cinema" tvg-logo="http://mobikora.tv/app/img/OSN-YaHala-Cinema.png" group-title="OSN&Bein&Fox",OSN Yahala Cinema
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/3395
-#EXTINF:-1 tvg-id="" tvg-name="OSN Ya Hala Shabab" tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2017/01/tv-net.co_10-2.jpg" group-title="OSN&Bein&Fox",OSN Ya Hala Shabab
+#EXTINF:-1 tvg-id="" tvg-name="OSN-Musalsalat" tvg-logo="" group-title="OSN&Bein&Fox",OSN-Musalsalat
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5474
+#EXTINF:-1 tvg-id="" tvg-name="OSN.Ya.Hala.Shabab" tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2017/01/tv-net.co_10-2.jpg" group-title="OSN&Bein&Fox",OSN.Ya.Hala.Shabab
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/3396
+#EXTINF:-1 tvg-id="" tvg-name="OSN-Al-YoumHD" tvg-logo="" group-title="OSN&Bein&Fox",OSN-Al-YoumHD
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5471
 #EXTINF:-1 tvg-id="" tvg-name="Bein Drama" tvg-logo="http://mobikora.tv/app/img/BeinDrama.png" group-title="OSN&Bein&Fox",Bein Drama
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/3417
 #EXTINF:-1 tvg-id="" tvg-name="CINMA 1" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1150_1.png" group-title="OSN&Bein&Fox",CINMA 1
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/3400
-#EXTINF:-1 tvg-id="" tvg-name="OSN Movies HD" tvg-logo="http://mobikora.tv/app/img/OSN-Movies-HD.png" group-title="OSN&Bein&Fox",OSN Movies HD
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/3394
-#EXTINF:-1 tvg-id="" tvg-name="OSN Action" tvg-logo="http://mobikora.tv/app/img/OSN-Movies-Action.png" group-title="OSN&Bein&Fox",OSN Action
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/3393
-#EXTINF:-1 tvg-id="" tvg-name="OSN Movies Festival" tvg-logo="https://tvmannen.es/iptv_channels/2258101_files/osnmoviesfestivalarb.png" group-title="OSN&Bein&Fox",OSN Movies Festival
+#EXTINF:-1 tvg-id="" tvg-name="OSN.MOVIES." tvg-logo="" group-title="OSN&Bein&Fox",OSN.MOVIES.
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5470
+#EXTINF:-1 tvg-id="" tvg-name="OSN.MOVIES.ACTION" tvg-logo="" group-title="OSN&Bein&Fox",OSN.MOVIES.ACTION
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5469
+#EXTINF:-1 tvg-id="" tvg-name="OSN.MOVIES.COMEDY" tvg-logo="" group-title="OSN&Bein&Fox",OSN.MOVIES.COMEDY
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5473
+#EXTINF:-1 tvg-id="" tvg-name="OSN.YAHALA.CINEMA" tvg-logo="" group-title="OSN&Bein&Fox",OSN.YAHALA.CINEMA
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5472
+#EXTINF:-1 tvg-id="" tvg-name="OSN.Movies.Festival" tvg-logo="https://tvmannen.es/iptv_channels/2258101_files/osnmoviesfestivalarb.png" group-title="OSN&Bein&Fox",OSN.Movies.Festival
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5246
-#EXTINF:-1 tvg-id="" tvg-name="OSN Box OFFICE 3 HD" tvg-logo="https://1.bp.blogspot.com/-qitaT2xqavA/W5BJB_DS8XI/AAAAAAAABaw/oKTI1yd5bCc6frGDH0JWAGbnTC5w5F78gCLcBGAs/s640/o3.jpg" group-title="OSN&Bein&Fox",OSN Box OFFICE 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN.Box.OFFICE 3 HD" tvg-logo="https://1.bp.blogspot.com/-qitaT2xqavA/W5BJB_DS8XI/AAAAAAAABaw/oKTI1yd5bCc6frGDH0JWAGbnTC5w5F78gCLcBGAs/s640/o3.jpg" group-title="OSN&Bein&Fox",OSN.Box.OFFICE 3 HD
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5245
-#EXTINF:-1 tvg-id="" tvg-name="OSN Movies Comedy HD" tvg-logo="https://tvmannen.es/iptv_channels/2258101_files/osnmoviescomedyarb.png" group-title="OSN&Bein&Fox",OSN Movies Comedy HD
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5244
 #EXTINF:-1 tvg-id="" tvg-name="FX-HD" tvg-logo="http://mobikora.tv/app/img/FXHD.png" group-title="OSN&Bein&Fox",FX-HD
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/3418
 #EXTINF:-1 tvg-id="" tvg-name="MY-FILM-BOX-HD" tvg-logo="https://pbs.twimg.com/profile_images/944102161163489281/2W-61_pu_400x400.jpg" group-title="OSN&Bein&Fox",MY-FILM-BOX-HD
@@ -285,8 +284,8 @@ http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5397
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5192
 #EXTINF:-1 tvg-id="" tvg-name="Bein Gourmet" tvg-logo="https://cne-eg.com/uploads/logos/20183175521422.png" group-title="OSN&Bein&Fox",Bein Gourmet
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5191
-#EXTINF:-1 tvg-id="" tvg-name="Imagine_Movies" tvg-logo="http://content.osn.com/bob/745x419/IMA.jpg" group-title="OSN&Bein&Fox",Imagine_Movies
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5203
+
+
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆قنوات العربية☆▄ ▂ ▁" tvg-logo="" group-title="ARABIC",▁ ▂ ▄☆قنوات العربية☆▄ ▂ ▁
 http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv88910/3411.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Almajd Quran" tvg-logo="" group-title="ARABIC",Almajd Quran
