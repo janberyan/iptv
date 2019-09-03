@@ -1,45 +1,70 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="AndrTV Pro وتطبيق Janberyan هذا السيرفر خاص لموقع" tvg-logo="" group-title="",AndrTV Pro وتطبيق Janberyan هذا السيرفر خاص لموقع
+#EXTINF:-1 tvg-id="" tvg-name="BeryanTV وتطبيق BeryanIPTV.com هذا السيرفر خاص لموقع" tvg-logo="" group-title="BeryanTV وتطبيق BeryanIPTV.com هذا السيرفر خاص لموقع",BeryanTV وتطبيق BeryanIPTV.com هذا السيرفر خاص لموقع
 http://iptv-janberyan.com:25461/movie/BeryanIPTV-TV/Beryantvv88910/3211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆ISLAM☆▄ ▂ ▁" tvg-logo="" group-title="",▁ ▂ ▄☆ISLAM☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5485
+#EXTINF:-1 tvg-id="" tvg-name="Makkah Live HD" tvg-logo="" group-title="رياضة وافلام منوعة",Makkah Live HD
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5348
+#EXTINF:-1 tvg-id="" tvg-name="Sunna TV" tvg-logo="" group-title="رياضة وافلام منوعة",Sunna TV
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5486
+#EXTINF:-1 tvg-id="" tvg-name="Al Quraan Al Kareem" tvg-logo="" group-title="ISALM",Al Quraan Al Kareem
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5479
+#EXTINF:-1 tvg-id="" tvg-name="Ayat" tvg-logo="" group-title="ISALM",Ayat
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5480
+#EXTINF:-1 tvg-id="" tvg-name="Iqraa" tvg-logo="" group-title="ISALM",Iqraa
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5484
+#EXTINF:-1 tvg-id="" tvg-name="Al Iarth Al Nabawi" tvg-logo="" group-title="ISALM",Al Iarth Al Nabawi
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5481
+#EXTINF:-1 tvg-id="" tvg-name="Kuwait TV Ethra" tvg-logo="" group-title="ISALM",Kuwait TV Ethra
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5482
+#EXTINF:-1 tvg-id="" tvg-name="Tanasuh TV" tvg-logo="" group-title="ISALM",Tanasuh TV
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5483
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆رياضة وافلام منوعة☆▄ ▂ ▁" tvg-logo="" group-title="رياضة وافلام منوعة",▁ ▂ ▄☆رياضة وافلام منوعة☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv88910/448.m3u8
-
-
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/448
 #EXTINF:-1 tvg-id="" tvg-name="Jan Beryan MoviesHD" tvg-logo="https://4.bp.blogspot.com/-6k2Y3vd_WqU/XJU-iLk5dQI/AAAAAAAAHXY/XFfU7ASmJv8iXTzZPTSFsTJiafrOJTS9wCLcBGAs/s1600/%25D8%25AC%25D8%25A7%25D9%2586.png" group-title="رياضة وافلام منوعة",Jan Beryan MoviesHD
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/3325
 #EXTINF:-1 tvg-id="" tvg-name="Jan Beryan SportsHD" tvg-logo="https://4.bp.blogspot.com/-6k2Y3vd_WqU/XJU-iLk5dQI/AAAAAAAAHXY/XFfU7ASmJv8iXTzZPTSFsTJiafrOJTS9wCLcBGAs/s1600/%25D8%25AC%25D8%25A7%25D9%2586.png" group-title="رياضة وافلام منوعة",Jan Beryan SportsHD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv88910/3326.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/3326
 #EXTINF:-1 tvg-id="" tvg-name="اثناء المبارايات" tvg-logo="" group-title="رياضة وافلام منوعة",اثناء المبارايات
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv88910/5186.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ajyal TV Mada*" tvg-logo="http://www.arn.ps/uploads/radioslogo/tv.jpg" group-title="رياضة وافلام منوعة",Ajyal TV Mada*
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv88910/451.m3u8
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5186
+#EXTINF:-1 tvg-id="" tvg-name="Ajyal TV Mada" tvg-logo="http://www.arn.ps/uploads/radioslogo/tv.jpg" group-title="رياضة وافلام منوعة",Ajyal TV Mada
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/451
+#EXTINF:-1 tvg-id="" tvg-name="WATAR PL" tvg-logo="" group-title="رياضة وافلام منوعة",WATAR PL
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5488
+#EXTINF:-1 tvg-id="" tvg-name="AlSalam TV" tvg-logo="https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/1654130_604382612981909_1372214940_n.jpg?_nc_cat=110&_nc_ht=scontent-ams3-1.xx&oh=097ac1b84bd2ba91c6be720e47305528&oe=5D4D5F95" group-title="رياضة وافلام منوعة",AlSalam TV
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/457
 #EXTINF:-1 tvg-id="" tvg-name="Almahed*" tvg-logo="http://nativitytv.ps/wp-content/uploads/2014/07/logo2.png" group-title="رياضة وافلام منوعة",Almahed*
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv88910/452.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AlSalam TV*" tvg-logo="https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/1654130_604382612981909_1372214940_n.jpg?_nc_cat=110&_nc_ht=scontent-ams3-1.xx&oh=097ac1b84bd2ba91c6be720e47305528&oe=5D4D5F95" group-title="رياضة وافلام منوعة",AlSalam TV*
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv88910/457.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AD-Sport-HD1" tvg-logo="http://mobikora.tv/app/img/ad-sports1.png" group-title="رياضة وافلام منوعة",AD-Sport-HD1
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv88910/3364.ts
-#EXTINF:-1 tvg-id="" tvg-name="AD-Sport-HD2" tvg-logo="http://mobikora.tv/app/img/ad-sports2.png" group-title="رياضة وافلام منوعة",AD-Sport-HD2
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv88910/3365.ts
-#EXTINF:-1 tvg-id="" tvg-name="KSA Sports 1" tvg-logo="" group-title="رياضة وافلام منوعة",KSA Sports 1
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5459
-#EXTINF:-1 tvg-id="" tvg-name="KSA Sports 2" tvg-logo="" group-title="رياضة وافلام منوعة",KSA Sports 2
-http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5460
-#EXTINF:-1 tvg-id="" tvg-name="Alkass-HD1" tvg-logo="http://mobikora.tv/app/img/kass1.png" group-title="رياضة وافلام منوعة",Alkass-HD1
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv88910/5162.ts
-#EXTINF:-1 tvg-id="" tvg-name="Alkass-HD2" tvg-logo="http://mobikora.tv/app/img/kass2.png" group-title="رياضة وافلام منوعة",Alkass-HD2
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv88910/5163.ts
-#EXTINF:-1 tvg-id="" tvg-name="ON SPORT" tvg-logo="https://3.bp.blogspot.com/-UoB2RrneWlk/WrTw8haUv-I/AAAAAAAABTg/aUO011tKuww4kLrhPCNms9K6CM4ndUn4wCLcBGAs/s320/on%2Bsport.png" group-title="رياضة وافلام منوعة",ON SPORT
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv88910/5190.ts
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/452
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 Bar HD" tvg-logo="" group-title="رياضة وافلام منوعة",DAZN 1 Bar HD
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5457
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 Bar HD" tvg-logo="" group-title="رياضة وافلام منوعة",DAZN 2 Bar HD
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5458
+#EXTINF:-1 tvg-id="" tvg-name="Sport.TV 1" tvg-logo="" group-title="رياضة وافلام منوعة",Sport.TV 1
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5461
+#EXTINF:-1 tvg-id="" tvg-name="Sport.TV 2" tvg-logo="" group-title="رياضة وافلام منوعة",Sport.TV 2
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5462
+#EXTINF:-1 tvg-id="" tvg-name="Sport.TV 3" tvg-logo="" group-title="رياضة وافلام منوعة",Sport.TV 3
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5463
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV" tvg-logo="" group-title="رياضة وافلام منوعة",Real Madrid TV
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5456
 #EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="" group-title="رياضة وافلام منوعة",MUTV
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5389
 #EXTINF:-1 tvg-id="" tvg-name="Chelsea TV" tvg-logo="" group-title="رياضة وافلام منوعة",Chelsea TV
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5390
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 Bar HD" tvg-logo="" group-title="رياضة وافلام منوعة",DAZN 1 Bar HD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv88910/5457.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 Bar HD" tvg-logo="" group-title="رياضة وافلام منوعة",DAZN 2 Bar HD
-http://iptv-janberyan.com:25461/live/BeryanIPTV-TV/Beryantvv88910/5458.ts
-
+#EXTINF:-1 tvg-id="" tvg-name="KSA Sports 1" tvg-logo="" group-title="رياضة وافلام منوعة",KSA Sports 1
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5459
+#EXTINF:-1 tvg-id="" tvg-name="KSA Sports 2" tvg-logo="" group-title="رياضة وافلام منوعة",KSA Sports 2
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5460
+#EXTINF:-1 tvg-id="" tvg-name="AD-Sport-HD1" tvg-logo="http://mobikora.tv/app/img/ad-sports1.png" group-title="رياضة وافلام منوعة",AD-Sport-HD1
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/3364
+#EXTINF:-1 tvg-id="" tvg-name="AD-Sport-HD2" tvg-logo="http://mobikora.tv/app/img/ad-sports2.png" group-title="رياضة وافلام منوعة",AD-Sport-HD2
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/3365
+#EXTINF:-1 tvg-id="" tvg-name="Alkass-HD1" tvg-logo="http://mobikora.tv/app/img/kass1.png" group-title="رياضة وافلام منوعة",Alkass-HD1
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5162
+#EXTINF:-1 tvg-id="" tvg-name="Alkass-HD2" tvg-logo="http://mobikora.tv/app/img/kass2.png" group-title="رياضة وافلام منوعة",Alkass-HD2
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5163
+#EXTINF:-1 tvg-id="" tvg-name="ON SPORT" tvg-logo="https://3.bp.blogspot.com/-UoB2RrneWlk/WrTw8haUv-I/AAAAAAAABTg/aUO011tKuww4kLrhPCNms9K6CM4ndUn4wCLcBGAs/s320/on%2Bsport.png" group-title="رياضة وافلام منوعة",ON SPORT
+http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/5190
 
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆beIN HD☆▄ ▂ ▁" tvg-logo="" group-title="BEIN SPORTS HD",▁ ▂ ▄☆beIN HD☆▄ ▂ ▁
 http://iptv-janberyan.com:25461/BeryanIPTV-TV/Beryantvv88910/472
