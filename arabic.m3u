@@ -1,3 +1,55 @@
+
+ 
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",KU-Rudaw
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",KU-Rudaw+
+http://95.170.215.106/hls/m3u8/Rudaw-Backup.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",kurdshow
+http://31.14.40.139:1935/liveTrans/SHOW1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",KURDMAX
+http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]", kurd max
+http://31.14.40.139:1935/liveTrans/myStream/chunklist_w1174064262.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",kurd SHOW1
+http://31.14.40.139:1935/liveTrans/SHOW1/chunklist_w1057724583.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",GK
+http://95.170.215.106/hls/m3u8/GK-Backup.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",Payam
+http://95.170.215.106/hls/m3u8/Payam-TV-Backup.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",KU-TRT-Kurdi
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",NRT
+http://95.170.215.106/hls/m3u8/NRT-Backup.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",Waar
+http://95.170.215.106/hls/m3u8/Waar-Backup.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",speda
+http://speda.teradek.live:1935/live/spedahd/chunklist_w1429612203.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",sterk
+http://137.74.205.201/live2/sterk-3mbps.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",media hader
+http://137.74.205.201/live1/mh-3mbps.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",Kurmanci
+http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",Kurmanci2
+http://31.14.40.139:1935/liveTrans/Pepule/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",K24
+http://95.170.215.106/hls/m3u8/K24-Backup.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",EZIDXANTV
+http://217.79.179.96/EZIDXANTV/1080/HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",kurd:NRT2
+http://95.170.215.106/hls/m3u8/NRT2-Backup.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",kurdustan IRAQ
+http://84.244.187.150:1935/live/smil:myStream.smil/chunklist_w1035622801_b1296000_sleng.m3u8?v=
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",knn-tv
+http://95.170.215.106/hls/m3u8/KNN-Backup.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game Of Thrones S8",Game Of Thrones E01
 http://video.alfajertv.com:8081/vodAlfajer/series/game-of-thrones-s8/Game-Of-Thrones-S8-E001.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game Of Thrones S8",Game Of Thrones E02
