@@ -1,5 +1,55 @@
 
- 
+#EXTINF:-1 tvg-logo="" group-title="==Sports==",BT-Sport-1HD
+http:// 95.170.215.120/hls/BT-Sport-1HD-N.m3u8
+#EXTINF:-1 tvg-logo="" group-title="==Sports==",BT-Sport-2HD
+http:// 95.170.215.120/hls/BT-Sport-2HD-N.m3u8
+#EXTINF:-1 tvg-logo="" group-title="==Sports==",Sky-S-main-even
+http:// 95.170.215.120/hls/Sky-S-main-even-N.m3u8
+#EXTINF:-1 tvg-logo="" group-title="==Sports==",Sky-Sport-action
+http:// 95.170.215.120/hls/Sky-Sport-action-N.m3u8
+#EXTINF:-1 tvg-logo="" group-title="==Sports==",Sky-Sport-Pre
+http:// 95.170.215.120/hls/Sky-Sport-Pre-L-XYT.m3u8
+#EXTINF:-1 tvg-logo="" group-title="==Sports==",Sky-Sport-football
+http:// 95.170.215.120/hls/Sky-Spo-football-N.m3u8
+#EXTINF:-1 tvg-logo="" group-title="==Sports==",Sky-Sport-cricket
+http:// 95.170.215.120/hls/Sky-Spor-cricket-N.m3u8
+#EXTINF:-1 tvg-logo="" group-title="==Sports==",CMore-Sport-Master
+http:// 95.170.215.120/hls/CMore-Sport-Master-HMH.m3u8
+#EXTINF:-1 tvg-logo="" group-title="==Sports==",CMore-Football-Master
+http:// 95.170.215.120/hls/CMore-Football-Master-HMH.m3u8
+#EXTINF:-1 tvg-logo="" group-title="==Sports==",Bein-Sport-NBA
+http:// 95.170.215.120/hls/Bein-Sport-NBA-IMH-HAK-MCR-NGC.m3u8
+#EXTINF:-1 tvg-logo="" group-title="==Sports==",Tivi-busport1
+http:// 95.170.215.120/hls/Tivi-busport1-Master-TR.m3u8
+#EXTINF:-1 tvg-logo="" group-title="==Sports==",Tivi-busport2
+http:// 95.170.215.120/hls/Tivi-busport2-Master-TR.m3u8
+#EXTINF:-1 tvg-logo="" group-title="==Sports==",Tivi-busport3
+http:// 95.170.215.120/hls/Tivi-busport3-Master-TR.m3u8
+#EXTINF:-1 tvg-logo="" group-title="==Sports==",ZIGGO-Select
+http:// 95.170.215.118/hls/ZIGGO-Select-N.m3u8
+#EXTINF:-1 tvg-logo="" group-title="==Sports==",ZIGGO-voetbal
+http:// 95.170.215.118/hls/ZIGGO-voetbal-N.m3u8
+#EXTINF:-1 tvg-logo="" group-title="==Sports==",EURO-Sport-1
+http:// 95.170.215.118/hls/EURO-Sport-1-N.m3u8
+#EXTINF:-1 tvg-logo="" group-title="==Sports==",EURO-Sport-2
+http:// 95.170.215.118/hls/EURO-Sport-2-N.m3u8
+#EXTINF:-1 tvg-logo="" group-title="==Sports==",NOVA-Sport-2
+http:// 95.170.215.118/hls/NOVA-Sport-2-N.m3u8
+#EXTINF:-1 tvg-logo="" group-title="==Sports==",CT-Sport
+http:// 95.170.215.118/hls/CT-Sport-N.m3u8
+#EXTINF:-1 tvg-logo="" group-title="==Sports==",Fox-Sport-1
+http:// 95.170.215.118/hls/Fox-Sport-1-N.m3u8
+#EXTINF:-1 tvg-logo="" group-title="==Sports==",Chelsea-TV
+http:// 95.170.215.120/hls/Chelsea-TV-N.m3u8
+#EXTINF:-1 tvg-logo="" group-title="==Sports==",MUTV
+http:// 95.170.215.120/hls/MUTV-N.m3u8
+#EXTINF:-1 tvg-logo="" group-title="==Sports==",BT-Sport-1HD
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",KU-Rudaw
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",KU-Rudaw+
