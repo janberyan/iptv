@@ -1,48 +1,62 @@
 
-#EXTINF:-1 tvg-logo="" group-title="==Sports==",BT-Sport-1HD
-http://95.170.215.120/hls/BT-Sport-1HD-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="==Sports==",BT-Sport-2HD
-http://95.170.215.120/hls/BT-Sport-2HD-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="==Sports==",Sky-S-main-even
-http://95.170.215.120/hls/Sky-S-main-even-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="==Sports==",Sky-Sport-action
-http://95.170.215.120/hls/Sky-Sport-action-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="==Sports==",Sky-Sport-Pre
-http://95.170.215.120/hls/Sky-Sport-Pre-L-XYT.m3u8
-#EXTINF:-1 tvg-logo="" group-title="==Sports==",Sky-Sport-football
-http://95.170.215.120/hls/Sky-Spo-football-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="==Sports==",Sky-Sport-cricket
-http://95.170.215.120/hls/Sky-Spor-cricket-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="==Sports==",CMore-Sport-Master
-http://95.170.215.120/hls/CMore-Sport-Master-HMH.m3u8
-#EXTINF:-1 tvg-logo="" group-title="==Sports==",CMore-Football-Master
-http://95.170.215.120/hls/CMore-Football-Master-HMH.m3u8
-#EXTINF:-1 tvg-logo="" group-title="==Sports==",Bein-Sport-NBA
-http://95.170.215.120/hls/Bein-Sport-NBA-IMH-HAK-MCR-NGC.m3u8
-#EXTINF:-1 tvg-logo="" group-title="==Sports==",Tivi-busport1
-http://95.170.215.120/hls/Tivi-busport1-Master-TR.m3u8
-#EXTINF:-1 tvg-logo="" group-title="==Sports==",Tivi-busport2
-http://95.170.215.120/hls/Tivi-busport2-Master-TR.m3u8
-#EXTINF:-1 tvg-logo="" group-title="==Sports==",Tivi-busport3
-http://95.170.215.120/hls/Tivi-busport3-Master-TR.m3u8
-#EXTINF:-1 tvg-logo="" group-title="==Sports==",ZIGGO-Select
-http://95.170.215.118/hls/ZIGGO-Select-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="==Sports==",ZIGGO-voetbal
-http://95.170.215.118/hls/ZIGGO-voetbal-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="==Sports==",EURO-Sport-1
-http://95.170.215.118/hls/EURO-Sport-1-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="==Sports==",EURO-Sport-2
-http://95.170.215.118/hls/EURO-Sport-2-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="==Sports==",NOVA-Sport-2
-http://95.170.215.118/hls/NOVA-Sport-2-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="==Sports==",CT-Sport
-http://95.170.215.118/hls/CT-Sport-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="==Sports==",Fox-Sport-1
-http://95.170.215.118/hls/Fox-Sport-1-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="==Sports==",Chelsea-TV
-http://95.170.215.120/hls/Chelsea-TV-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="==Sports==",MUTV
-http://95.170.215.120/hls/MUTV-N.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan",Rudaw
+http://95.170.215.106/hls/Rudaw-Backup-M.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan",K24
+http://95.170.215.106/hls/K24-Backup-M.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan",Kurdsat
+http://95.170.215.106/hls/Kurdsat-N-Backup-M.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan",Waar
+http://95.170.215.106/hls/Waar-Backup-M.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan",NRT
+http://95.170.215.106/hls/NRT-Backup-M.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan",Biaban-Movies
+http://95.170.215.118/hls/Biaban-Movies-HD-N.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan",Astera-HD
+http://95.170.215.118/hls/Astera-HD-N.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan",NewLine
+http://95.170.215.118/hls/NewLine-HD-N.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan",NewLine-2
+http://95.170.215.118/hls/NewLine-2-HD-N.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan",Kurdistan
+http://95.170.215.106/hls/Kurdistan-Backup-M.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan",Kurdsat
+http://95.170.215.106/hls/Kurdsat-Backup-M.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan",KURDMAX
+http://95.170.215.106/hls/KURDMAX-S-Backup-M.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan",KURDMAX
+http://95.170.215.106/hls/KURDMAX-B-Backup-M.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan",Kmax
+http://95.170.215.106/hls/Kmax-Sh-B-Backup-M.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan",NRT2
+http://95.170.215.106/hls/NRT2-Backup-M.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan",GK
+http://95.170.215.106/hls/GK-Backup-M.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan",Payam-TV
+http://95.170.215.106/hls/Payam-TV-Backup-M.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan",CIRA-TV
+http://95.170.215.106/hls/CIRA-TV-Backup-M.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan",Rojava-TV
+http://95.170.215.106/hls/Rojava-TV-Backup-M.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan",Ronahi-TV
+http://95.170.215.106/hls/Ronahi-TV-Backup-M.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan",SPEDA-HD
+http://95.170.215.106/hls/SPEDA-HD-Backup-M.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan",STERK-TV
+http://95.170.215.106/hls/STERK-TV-Backup-M.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan",SUROYO
+http://95.170.215.106/hls/SUROYO-Backup-M.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan",ISHTAR
+http://95.170.215.106/hls/ISHTAR-Backup-M.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan",NET-TV
+http://95.170.215.106/hls/NET-TV-Backup-M.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan",Zagros-TV
+http://95.170.215.106/hls/Zagros-TV-Backup-M.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan",Helhelok
+http://95.170.215.106/hls/Helhelok-Backup-N.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan",VinTV
+http://95.170.215.106/hls/VinTV-Backup-N.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kurdistan",VIN-TV
+http://95.170.215.118/hls/VIN-TV-HD-N.m3u8
 
 
 
@@ -50,48 +64,6 @@ http://95.170.215.120/hls/MUTV-N.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",KU-Rudaw
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",KU-Rudaw+
-http://95.170.215.106/hls/m3u8/Rudaw-Backup.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",kurdshow
-http://31.14.40.139:1935/liveTrans/SHOW1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",KURDMAX
-http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]", kurd max
-http://31.14.40.139:1935/liveTrans/myStream/chunklist_w1174064262.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",kurd SHOW1
-http://31.14.40.139:1935/liveTrans/SHOW1/chunklist_w1057724583.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",GK
-http://95.170.215.106/hls/m3u8/GK-Backup.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",Payam
-http://95.170.215.106/hls/m3u8/Payam-TV-Backup.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",KU-TRT-Kurdi
-http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",NRT
-http://95.170.215.106/hls/m3u8/NRT-Backup.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",Waar
-http://95.170.215.106/hls/m3u8/Waar-Backup.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",speda
-http://speda.teradek.live:1935/live/spedahd/chunklist_w1429612203.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",sterk
-http://137.74.205.201/live2/sterk-3mbps.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",media hader
-http://137.74.205.201/live1/mh-3mbps.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",Kurmanci
-http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",Kurmanci2
-http://31.14.40.139:1935/liveTrans/Pepule/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",K24
-http://95.170.215.106/hls/m3u8/K24-Backup.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",EZIDXANTV
-http://217.79.179.96/EZIDXANTV/1080/HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",kurd:NRT2
-http://95.170.215.106/hls/m3u8/NRT2-Backup.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",kurdustan IRAQ
-http://84.244.187.150:1935/live/smil:myStream.smil/chunklist_w1035622801_b1296000_sleng.m3u8?v=
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan.[Kurdistanê]",knn-tv
-http://95.170.215.106/hls/m3u8/KNN-Backup.m3u8
 
 
 
