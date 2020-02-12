@@ -1,25 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS HD1" tvg-logo="" group-title="Bein Sports",BEIN SPORTS HD1
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEIN0H265/vRO5NRwXvh/1353
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS HD2" tvg-logo="" group-title="Bein Sports",BEIN SPORTS HD2
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEIN0H265/vRO5NRwXvh/1354
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS HD3" tvg-logo="" group-title="Bein Sports",BEIN SPORTS HD3
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEIN0H265/vRO5NRwXvh/1355
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS HD4" tvg-logo="" group-title="Bein Sports",BEIN SPORTS HD4
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEIN0H265/vRO5NRwXvh/1356
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS HD5" tvg-logo="" group-title="Bein Sports",BEIN SPORTS HD5
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEIN0H265/vRO5NRwXvh/1357
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS HD6" tvg-logo="" group-title="Bein Sports",BEIN SPORTS HD6
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEIN0H265/vRO5NRwXvh/1358
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS HD7" tvg-logo="" group-title="Bein Sports",BEIN SPORTS HD7
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEIN0H265/vRO5NRwXvh/1359
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS HD8" tvg-logo="" group-title="Bein Sports",BEIN SPORTS HD8
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEIN0H265/vRO5NRwXvh/1360
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS HD9" tvg-logo="" group-title="Bein Sports",BEIN SPORTS HD9
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEIN0H265/vRO5NRwXvh/1361
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS HD10" tvg-logo="" group-title="Bein Sports",BEIN SPORTS HD10
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEIN0H265/vRO5NRwXvh/1362
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="Sports Channel",BT-Sport-1HD
