@@ -1,6 +1,19 @@
 #EXTM3U
 
-
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 1
+http://xxx12.trainer.pw/mubasher1/trainer.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 2
+http://xxx12.trainer.pw/mubasher2/trainer.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 3
+http://xxx12.trainer.pw/mubasher3/trainer.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 4
+http://xxx12.trainer.pw/mubasher4/trainer.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 6
+http://xxx12.trainer.pw/mubasher6/trainer.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 8
+http://xxx12.trainer.pw/mubasher8/trainer.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 9
+http://xxx12.trainer.pw/mubasher9/trainer.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Sports Channel",BT-Sport-1HD
