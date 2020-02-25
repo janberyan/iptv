@@ -1,69 +1,20 @@
 #EXTM3U
-
 #EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 1
-http://xxx12.trainer.pw/mubasher1/trainer.m3u8
+http://xxx1.trainer.pw/mubasher1/trainer.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 2
-http://xxx12.trainer.pw/mubasher2/trainer.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 3
-http://xxx12.trainer.pw/mubasher3/trainer.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 4
-http://xxx12.trainer.pw/mubasher4/trainer.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 6
-http://xxx12.trainer.pw/mubasher6/trainer.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 8
-http://xxx12.trainer.pw/mubasher8/trainer.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 9
-http://xxx12.trainer.pw/mubasher9/trainer.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="Sports Channel",BT-Sport-1HD
-http://95.170.215.120/hls/BT-Sport-1HD-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Channel",BT-Sport-2HD
-http://95.170.215.120/hls/BT-Sport-2HD-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Channel",Sky-S-main-even
-http://95.170.215.120/hls/Sky-S-main-even-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Channel",Sky-Sport-action
-http://95.170.215.120/hls/Sky-Sport-action-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Channel",Sky-Sport-Pre
-http://95.170.215.120/hls/Sky-Sport-Pre-L-XYT.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Channel",Sky-Sport-football
-http://95.170.215.120/hls/Sky-Spo-football-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Channel",Sky-Sport-cricket
-http://95.170.215.120/hls/Sky-Spor-cricket-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Channel",CMore-Sport-Master
-http://95.170.215.120/hls/CMore-Sport-Master-HMH.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Channel",CMore-Football-Master
-http://95.170.215.120/hls/CMore-Football-Master-HMH.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Chananel",Bein-Sport-NBA
-http://95.170.215.120/hls/Bein-Sport-NBA-IMH-HAK-MCR-NGC.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Channel",Tivi-busport1
-http://95.170.215.120/hls/Tivi-busport1-Master-TR.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Channel",Tivi-busport2
-http://95.170.215.120/hls/Tivi-busport2-Master-TR.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Channel",Tivi-busport3
-http://95.170.215.120/hls/Tivi-busport3-Master-TR.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Channel",ZIGGO-Select
-http://95.170.215.118/hls/ZIGGO-Select-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Channel",ZIGGO-voetbal
-http://95.170.215.118/hls/ZIGGO-voetbal-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Channel",EURO-Sport-1
-http://95.170.215.118/hls/EURO-Sport-1-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Channel",EURO-Sport-2
-http://95.170.215.118/hls/EURO-Sport-2-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Channel",NOVA-Sport-2
-http://95.170.215.118/hls/NOVA-Sport-2-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Channel",CT-Sport
-http://95.170.215.118/hls/CT-Sport-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Channel",Fox-Sport-1
-http://95.170.215.118/hls/Fox-Sport-1-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Channel",Chelsea-TV
-http://95.170.215.120/hls/Chelsea-TV-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Channel",MUTV
-http://95.170.215.120/hls/MUTV-N.m3u8
-
-
-
-
+http://xxx1.trainer.pw/mubasher2/trainer.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Bein Sports",Bein Sports HD 1
+http://local.referrari.com/live/302201_.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Bein Sports",Bein Sports HD 2
+http://local.referrari.com/live/302202_.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Bein Sports",Bein Sports HD 3
+http://local.referrari.com/live/302203_.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Bein Sports",Bein Sports HD 4
+http://local.referrari.com/live/302210_.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Bein Sports",Bein Sports HD 5
+http://local.referrari.com/live/302204_.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Bein Sports",Bein Sports HD 6
+http://local.referrari.com/live/302205_.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Kurdistan",Rudaw
 http://95.170.215.106/hls/Rudaw-Backup-M.m3u8
