@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 1
-http://xxx1.trainer.pw/mubasher1/trainer.m3u8
+http://xxx2.trainer.pw/mob1/trainer.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 2
-http://xxx1.trainer.pw/mubasher2/trainer.m3u8
+http://xxx2.trainer.pw/mob2/trainer.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="Bein Sports",Bein Sports HD 1
 http://local.referrari.com/live/302201_.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="Bein Sports",Bein Sports HD 2
