@@ -1,87 +1,22 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 1
-http://xxx2.trainer.pw/mob1/trainer.m3u8
+https://xxx2.trainer.pw/mob1/trainer.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 2
 http://xxx2.trainer.pw/mob2/trainer.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 3
+http://xxx2.trainer.pw/mob3/trainer.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="Bein Sports",Bein Sports HD 1
-http://local.referrari.com/live/302201_.m3u8
+https://local.referrari.com/live/302201_.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="Bein Sports",Bein Sports HD 2
-http://local.referrari.com/live/302202_.m3u8
+https://local.referrari.com/live/302202_.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="Bein Sports",Bein Sports HD 3
-http://local.referrari.com/live/302203_.m3u8
+https://local.referrari.com/live/302203_.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="Bein Sports",Bein Sports HD 4
-http://local.referrari.com/live/302210_.m3u8
+https://local.referrari.com/live/302210_.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="Bein Sports",Bein Sports HD 5
-http://local.referrari.com/live/302204_.m3u8
+https://local.referrari.com/live/302204_.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="Bein Sports",Bein Sports HD 6
-http://local.referrari.com/live/302205_.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan",Rudaw
-http://95.170.215.106/hls/Rudaw-Backup-M.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan",K24
-http://95.170.215.106/hls/K24-Backup-M.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan",Kurdsat
-http://95.170.215.106/hls/Kurdsat-N-Backup-M.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan",Waar
-http://95.170.215.106/hls/Waar-Backup-M.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan",NRT
-http://95.170.215.106/hls/NRT-Backup-M.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan",Biaban-Movies
-http://95.170.215.118/hls/Biaban-Movies-HD-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan",Astera-HD
-http://95.170.215.118/hls/Astera-HD-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan",NewLine
-http://95.170.215.118/hls/NewLine-HD-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan",NewLine-2
-http://95.170.215.118/hls/NewLine-2-HD-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan",Kurdistan
-http://95.170.215.106/hls/Kurdistan-Backup-M.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan",Kurdsat
-http://95.170.215.106/hls/Kurdsat-Backup-M.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan",KURDMAX
-http://95.170.215.106/hls/KURDMAX-S-Backup-M.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan",KURDMAX
-http://95.170.215.106/hls/KURDMAX-B-Backup-M.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan",Kmax
-http://95.170.215.106/hls/Kmax-Sh-B-Backup-M.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan",NRT2
-http://95.170.215.106/hls/NRT2-Backup-M.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan",GK
-http://95.170.215.106/hls/GK-Backup-M.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan",Payam-TV
-http://95.170.215.106/hls/Payam-TV-Backup-M.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan",CIRA-TV
-http://95.170.215.106/hls/CIRA-TV-Backup-M.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan",Rojava-TV
-http://95.170.215.106/hls/Rojava-TV-Backup-M.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan",Ronahi-TV
-http://95.170.215.106/hls/Ronahi-TV-Backup-M.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan",SPEDA-HD
-http://95.170.215.106/hls/SPEDA-HD-Backup-M.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan",STERK-TV
-http://95.170.215.106/hls/STERK-TV-Backup-M.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan",SUROYO
-http://95.170.215.106/hls/SUROYO-Backup-M.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan",ISHTAR
-http://95.170.215.106/hls/ISHTAR-Backup-M.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan",NET-TV
-http://95.170.215.106/hls/NET-TV-Backup-M.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan",Zagros-TV
-http://95.170.215.106/hls/Zagros-TV-Backup-M.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan",Helhelok
-http://95.170.215.106/hls/Helhelok-Backup-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan",VinTV
-http://95.170.215.106/hls/VinTV-Backup-N.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kurdistan",VIN-TV
-http://95.170.215.118/hls/VIN-TV-HD-N.m3u8
-
-
-
-
-
-
-
-
+https://local.referrari.com/live/302205_.m3u8
 
 
 
