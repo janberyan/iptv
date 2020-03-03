@@ -1,10 +1,23 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 1
-https://xxx2.trainer.pw/mob1/trainer.m3u8
+https://local.referrari.com/live/60186_.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 2
-http://xxx2.trainer.pw/mob2/trainer.m3u8
+https://local.referrari.com/live/60187_.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 3
-http://xxx2.trainer.pw/mob3/trainer.m3u8
+http://local.referrari.com/live/60188_.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 4
+http://local.referrari.com/live/60189_.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 5
+http://local.referrari.com/live/60190_.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 6
+http://local.referrari.com/live/60191_.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 7
+http://local.referrari.com/live/60192_.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 8
+http://local.referrari.com/live/60193_.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 9
+http://local.referrari.com/live/601934.m3u8
+
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="Bein Sports",Bein Sports HD 1
 https://local.referrari.com/live/302201_.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="Bein Sports",Bein Sports HD 2
