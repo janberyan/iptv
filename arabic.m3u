@@ -1,36 +1,19 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Updatd",يوجد تحديث جديد للتطبيق
+http://163.172.219.63/apps/update.mp4
 #EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 1
-https://local.referrari.com/live/60186_.m3u8
+http://163.172.219.63/apps/update.mp4
 #EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 2
-https://local.referrari.com/live/60187_.m3u8
+http://163.172.219.63/apps/update.mp4
 #EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 3
-http://local.referrari.com/live/60188_.m3u8
+http://163.172.219.63/apps/update.mp4
 #EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 4
-http://local.referrari.com/live/60189_.m3u8
+http://163.172.219.63/apps/update.mp4
 #EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 5
-http://local.referrari.com/live/60190_.m3u8
+http://163.172.219.63/apps/update.mp4
 #EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 6
-http://local.referrari.com/live/60191_.m3u8
+http://163.172.219.63/apps/update.mp4
 #EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 7
-http://local.referrari.com/live/60192_.m3u8
+http://163.172.219.63/apps/update.mp4
 #EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 8
-http://local.referrari.com/live/60193_.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 9
-http://local.referrari.com/live/601934.m3u8
-
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Bein Sports",Bein Sports HD 1
-https://local.referrari.com/live/302201_.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Bein Sports",Bein Sports HD 2
-https://local.referrari.com/live/302202_.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Bein Sports",Bein Sports HD 3
-https://local.referrari.com/live/302203_.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Bein Sports",Bein Sports HD 4
-https://local.referrari.com/live/302210_.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Bein Sports",Bein Sports HD 5
-https://local.referrari.com/live/302204_.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Bein Sports",Bein Sports HD 6
-https://local.referrari.com/live/302205_.m3u8
-
-
-
-
+http://163.172.219.63/apps/update.mp4
