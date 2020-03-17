@@ -681,7 +681,7 @@ https://shoofmax.b-cdn.net//kalabsh/ep30/variant.m3u8
 
 
 
-#EXTINF:0 tvg-id="avi" group-title="مسلسلات اجنبية",المحافظ الجزء الاول
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات اجنبية",===المحافظ الجزء الاول===
 https://ia601508.us.archive.orااg/3/items/xiaoyingvidللبببeo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات اجنبية",المحافظ الحلقة1
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S01E01.Mp4
@@ -703,9 +703,7 @@ http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S01E08.Mp4
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S01E09.Mp4
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات اجنبية",المحافظ الحلقة10
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S01E10.Mp4
-
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسلات اجنبية",المحافظ الجزء الثاني
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات اجنبية",===المحافظ الجزء الثاني===
 https://ia601508.us.archive.orااg/3/items/xiaoyingvidللبببeo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات اجنبية",المحافظ الحلقة11
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S02E01.Mp4
@@ -723,10 +721,7 @@ http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S02E06.Mp4
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S02E07.Mp4
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات اجنبية",المحافظ الحلقة18
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S02E08.Mp4
-
-
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسلات اجنبية",المحافظ الجزء الثالث
+#EXTINF:0 tvg-id="avi" group-title="===مسلسلات اجنبية",===المحافظ الجزء الثالث
 https://ia601508.us.archive.orااg/3/items/xiaoyingvidللبببeo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات اجنبية",المحافظ الحلقة19
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S03E01.Mp4
@@ -743,9 +738,31 @@ http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S03E06.Mp4
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات اجنبية",المحافظ الحلقة25
 http://95.170.215.120/vod2/EnglishTvSeries2/TheProtector-Ar-S03E07.Mp4
 
+
+#EXTINF:0 tvg-id="avi" group-title="===مسلسلات اجنبية",===The Witcher
+https://ia601508.us.archive.orااg/3/items/xiaoyingvidللبببeo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات اجنبية",The Witcher 1
+http://95.170.215.120/vod2/EnglishTvSeries2/TheWitcher-Ar-S01E01.Mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات اجنبية",The Witcher 2
+http://95.170.215.120/vod2/EnglishTvSeries2/TheWitcher-Ar-S01E02.Mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات اجنبية",The Witcher 3
+http://95.170.215.120/vod2/EnglishTvSeries2/TheWitcher-Ar-S01E03.Mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات اجنبية",The Witcher 4
+http://95.170.215.120/vod2/EnglishTvSeries2/TheWitcher-Ar-S01E04.Mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات اجنبية",The Witcher 5
+http://95.170.215.120/vod2/EnglishTvSeries2/TheWitcher-Ar-S01E05.Mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات اجنبية",The Witcher 6
+http://95.170.215.120/vod2/EnglishTvSeries2/TheWitcher-Ar-S01E06.Mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات اجنبية",The Witcher 7
+http://95.170.215.120/vod2/EnglishTvSeries2/TheWitcher-Ar-S01E07.Mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات اجنبية",The Witcher 8
+http://95.170.215.120/vod2/EnglishTvSeries2/TheWitcher-Ar-S01E08.Mp4
+
+
+
+
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",افلام عربية
 https://ia601508.us.archive.orااg/3/items/xiaoyingvidللبببeo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
-
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",30.Years.Ago.2016
 https://aflamuna.com/aflam/ar/30.Years.Ago.2016.HDRip.720p.akoam.net.mkv
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",LeAglena.2016
