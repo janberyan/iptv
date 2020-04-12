@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Updatd",يوجد تحديث جديد للتطبيق
-http://163.172.219.63/apps/update.mp4
-#EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 1
-http://163.172.219.63/apps/update.mp4
-#EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 2
-http://163.172.219.63/apps/update.mp4
+#EXTINF:0 tvg-id="ext" group-title="Updatd",سونيك
+http://95.170.215.118/vod1/EnglishMovies/2020/SonicTheHedgehog-Ar-Srt.mp4
+#EXTINF:0 tvg-id="ext" group-title="SonicTheHedgehog
+http://95.170.215.118/vod1/EnglishMovies/2020/SonicTheHedgehog-Ar-Srt.mp4
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports",TheGentleMen
+http://95.170.215.118/vod1/EnglishMovies/2019/TheGentleMen-Ar-Srt.mp4
 #EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 3
 http://163.172.219.63/apps/update.mp4
 #EXTINF:0 tvg-id="ext" group-title="Bein Sports",BEIN SPORT sport 4
